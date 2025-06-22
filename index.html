@@ -861,13 +861,13 @@
           <div class="category-item">
 
             <div class="category-img-box">
-              <img src="./assets/images/icons/dress.svg" alt="dress & frock" width="30">
+              <img src="./assets/images/icons/sandália.svg" alt="dress & frock" width="30">
             </div>
 
             <div class="category-content-box">
 
               <div class="category-content-flex">
-                <h3 class="category-item-title">Dress & frock</h3>
+                <h3 class="category-item-title">sandálias</h3>
 
                 <p class="category-item-amount">(53)</p>
               </div>
@@ -881,13 +881,13 @@
           <div class="category-item">
 
             <div class="category-img-box">
-              <img src="./assets/images/icons/coat.svg" alt="winter wear" width="30">
+              <img src="./assets/images/icons/sapatilha.svg" alt="winter wear" width="30">
             </div>
 
             <div class="category-content-box">
 
               <div class="category-content-flex">
-                <h3 class="category-item-title">Winter wear</h3>
+                <h3 class="category-item-title">sapatilhas</h3>
 
                 <p class="category-item-amount">(58)</p>
               </div>
@@ -901,13 +901,13 @@
           <div class="category-item">
 
             <div class="category-img-box">
-              <img src="./assets/images/icons/glasses.svg" alt="glasses & lens" width="30">
+              <img src="./assets/images/icons/sola.svg" alt="glasses & lens" width="30">
             </div>
 
             <div class="category-content-box">
 
               <div class="category-content-flex">
-                <h3 class="category-item-title">Glasses & lens</h3>
+                <h3 class="category-item-title">solas</h3>
 
                 <p class="category-item-amount">(68)</p>
               </div>
@@ -921,13 +921,13 @@
           <div class="category-item">
 
             <div class="category-img-box">
-              <img src="./assets/images/icons/shorts.svg" alt="shorts & jeans" width="30">
+              <img src="./assets/images/icons/cadarço.svg" alt="shorts & jeans" width="30">
             </div>
 
             <div class="category-content-box">
 
               <div class="category-content-flex">
-                <h3 class="category-item-title">Shorts & jeans</h3>
+                <h3 class="category-item-title">cadarços</h3>
 
                 <p class="category-item-amount">(84)</p>
               </div>
@@ -941,13 +941,13 @@
           <div class="category-item">
 
             <div class="category-img-box">
-              <img src="./assets/images/icons/tee.svg" alt="t-shirts" width="30">
+              <img src="./assets/images/icons/EPIs.svg" alt="t-shirts" width="30">
             </div>
 
             <div class="category-content-box">
 
               <div class="category-content-flex">
-                <h3 class="category-item-title">T-shirts</h3>
+                <h3 class="category-item-title">EPI-s</h3>
 
                 <p class="category-item-amount">(35)</p>
               </div>
@@ -961,13 +961,13 @@
           <div class="category-item">
 
             <div class="category-img-box">
-              <img src="./assets/images/icons/jacket.svg" alt="jacket" width="30">
+              <img src="./assets/images/icons/chinelo.svg" alt="jacket" width="30">
             </div>
 
             <div class="category-content-box">
 
               <div class="category-content-flex">
-                <h3 class="category-item-title">Jacket</h3>
+                <h3 class="category-item-title">chinelos</h3>
 
                 <p class="category-item-amount">(16)</p>
               </div>
@@ -981,13 +981,13 @@
           <div class="category-item">
 
             <div class="category-img-box">
-              <img src="./assets/images/icons/watch.svg" alt="watch" width="30">
+              <img src="./assets/images/icons/chuteira.svg" alt="watch" width="30">
             </div>
 
             <div class="category-content-box">
 
               <div class="category-content-flex">
-                <h3 class="category-item-title">Watch</h3>
+                <h3 class="category-item-title">chuteiras</h3>
 
                 <p class="category-item-amount">(27)</p>
               </div>
@@ -1001,13 +1001,13 @@
           <div class="category-item">
 
             <div class="category-img-box">
-              <img src="./assets/images/icons/hat.svg" alt="hat & caps" width="30">
+              <img src="./assets/images/icons/meia.svg" alt="hat & caps" width="30">
             </div>
 
             <div class="category-content-box">
 
               <div class="category-content-flex">
-                <h3 class="category-item-title">Hat & caps</h3>
+                <h3 class="category-item-title">meias</h3>
 
                 <p class="category-item-amount">(39)</p>
               </div>
@@ -1046,7 +1046,7 @@
           <div class="sidebar-category">
 
             <div class="sidebar-top">
-              <h2 class="sidebar-title">Category</h2>
+              <h2 class="sidebar-title">Categoria</h2>
 
               <button class="sidebar-close-btn" data-mobile-menu-close-btn>
                 <ion-icon name="close-outline"></ion-icon>
@@ -1060,10 +1060,10 @@
                 <button class="sidebar-accordion-menu" data-accordion-btn>
 
                   <div class="menu-title-flex">
-                    <img src="./assets/images/icons/dress.svg" alt="clothes" width="20" height="20"
+                    <img src="./assets/images/icons/tênis.svg" alt="clothes" width="20" height="20"
                       class="menu-title-img">
 
-                    <p class="menu-title">Clothes</p>
+                    <p class="menu-title">tênis</p>
                   </div>
 
                   <div>
@@ -1112,10 +1112,10 @@
                 <button class="sidebar-accordion-menu" data-accordion-btn>
 
                   <div class="menu-title-flex">
-                    <img src="./assets/images/icons/shoes.svg" alt="footwear" class="menu-title-img" width="20"
+                    <img src="./assets/images/icons/chuteira.svg" alt="footwear" class="menu-title-img" width="20"
                       height="20">
 
-                    <p class="menu-title">Footwear</p>
+                    <p class="menu-title">chuteiras</p>
                   </div>
 
                   <div>
@@ -1164,10 +1164,10 @@
                 <button class="sidebar-accordion-menu" data-accordion-btn>
 
                   <div class="menu-title-flex">
-                    <img src="./assets/images/icons/jewelry.svg" alt="clothes" class="menu-title-img" width="20"
+                    <img src="./assets/images/icons/chinelo.svg" alt="clothes" class="menu-title-img" width="20"
                       height="20">
 
-                    <p class="menu-title">Jewelry</p>
+                    <p class="menu-title">chinelos</p>
                   </div>
 
                   <div>
@@ -1209,10 +1209,10 @@
                 <button class="sidebar-accordion-menu" data-accordion-btn>
 
                   <div class="menu-title-flex">
-                    <img src="./assets/images/icons/perfume.svg" alt="perfume" class="menu-title-img" width="20"
+                    <img src="./assets/images/icons/mocassin.svg" alt="perfume" class="menu-title-img" width="20"
                       height="20">
 
-                    <p class="menu-title">Perfume</p>
+                    <p class="menu-title">mocassins</p>
                   </div>
 
                   <div>
@@ -1261,10 +1261,10 @@
                 <button class="sidebar-accordion-menu" data-accordion-btn>
 
                   <div class="menu-title-flex">
-                    <img src="./assets/images/icons/cosmetics.svg" alt="cosmetics" class="menu-title-img" width="20"
+                    <img src="./assets/images/icons/oxford.svg" alt="cosmetics" class="menu-title-img" width="20"
                       height="20">
 
-                    <p class="menu-title">Cosmetics</p>
+                    <p class="menu-title">oxfords</p>
                   </div>
 
                   <div>
@@ -1313,10 +1313,10 @@
                 <button class="sidebar-accordion-menu" data-accordion-btn>
 
                   <div class="menu-title-flex">
-                    <img src="./assets/images/icons/glasses.svg" alt="glasses" class="menu-title-img" width="20"
+                    <img src="./assets/images/icons/rasteirinha.svg" alt="glasses" class="menu-title-img" width="20"
                       height="20">
 
-                    <p class="menu-title">Glasses</p>
+                    <p class="menu-title">rasteirinhas</p>
                   </div>
 
                   <div>
@@ -1351,9 +1351,9 @@
                 <button class="sidebar-accordion-menu" data-accordion-btn>
 
                   <div class="menu-title-flex">
-                    <img src="./assets/images/icons/bag.svg" alt="bags" class="menu-title-img" width="20" height="20">
+                    <img src="./assets/images/icons/salto alto.svg" alt="bags" class="menu-title-img" width="20" height="20">
 
-                    <p class="menu-title">Bags</p>
+                    <p class="menu-title">salto alto</p>
                   </div>
 
                   <div>
