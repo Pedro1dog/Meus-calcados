@@ -1412,7 +1412,7 @@
                 <div class="showcase">
 
                   <a href="#" class="showcase-img-box">
-                    <img src="./assets/images/products/1.jpg" alt="baby fabric shoes" width="75" height="75"
+                    <img src="./assets/images/products/Meia Lupo Sport Walk Cano Curto 3 Pares.jpg" alt="baby fabric shoes" width="75" height="75"
                       class="showcase-img">
                   </a>
 
@@ -1442,7 +1442,7 @@
                 <div class="showcase">
 
                   <a href="#" class="showcase-img-box">
-                    <img src="./assets/images/products/2.jpg" alt="men's hoodies t-shirt" class="showcase-img"
+                    <img src="./assets/images/products/Palmilha Confort Pé Relax  Pé Relax Sapatos Confortáveis.jpg" alt="men's hoodies t-shirt" class="showcase-img"
                       width="75" height="75">
                   </a>
 
@@ -1471,7 +1471,7 @@
                 <div class="showcase">
 
                   <a href="#" class="showcase-img-box">
-                    <img src="./assets/images/products/3.jpg" alt="girls t-shirt" class="showcase-img" width="75"
+                    <img src="./assets/images/products/CADARÇO CHATO ALG SCERA 32285 - 90CM - ROXO - romeucouros.jpg" alt="girls t-shirt" class="showcase-img" width="75"
                       height="75">
                   </a>
 
@@ -1500,7 +1500,7 @@
                 <div class="showcase">
 
                   <a href="#" class="showcase-img-box">
-                    <img src="./assets/images/products/4.jpg" alt="woolen hat for men" class="showcase-img" width="75"
+                    <img src="./assets/images/products/Cadarço Chato Poliester T150 - 120cm - Cinza Escuro - Par.jpg" alt="woolen hat for men" class="showcase-img" width="75"
                       height="75">
                   </a>
 
@@ -1555,7 +1555,7 @@
                   <div class="showcase">
 
                     <a href="#" class="showcase-img-box">
-                      <img src="./assets/images/products/clothes-1.jpg" alt="relaxed short full sleeve t-shirt" width="70" class="showcase-img">
+                      <img src="./assets/images/products/Chinelo Havaianas Brasil Logo - Azul.jpg" alt="relaxed short full sleeve t-shirt" width="70" class="showcase-img">
                     </a>
 
                     <div class="showcase-content">
@@ -1578,7 +1578,7 @@
                   <div class="showcase">
                   
                     <a href="#" class="showcase-img-box">
-                      <img src="./assets/images/products/clothes-2.jpg" alt="girls pink embro design top" class="showcase-img" width="70">
+                      <img src="./assets/images/products/NIKE VICTORI ONE MEN'S SLIDES.jpg" alt="girls pink embro design top" class="showcase-img" width="70">
                     </a>
                   
                     <div class="showcase-content">
@@ -1763,7 +1763,7 @@
                   <div class="showcase">
             
                     <a href="#" class="showcase-img-box">
-                      <img src="./assets/images/products/sports-1.jpg" alt="running & trekking shoes - white" class="showcase-img"
+                      <img src="./assets/images/products/Chuteira Campo Adidas Predator Accuracy P4 Sock Unissex.jpg" alt="running & trekking shoes - white" class="showcase-img"
                         width="70">
                     </a>
             
