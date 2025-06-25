@@ -91,7 +91,7 @@
     </button>
 
     <div class="toast-banner">
-      <img src="./assets/images/products/jewellery-1.jpg" alt="Rose Gold Earrings" width="80" height="70">
+      <img src="./assets/images/products/Chuck Taylor All Star Vermelho.jpg" alt="Rose Gold Earrings" width="80" height="70">
     </div>
 
     <div class="toast-detail">
@@ -1601,7 +1601,7 @@
                   <div class="showcase">
                   
                     <a href="#" class="showcase-img-box">
-                      <img src="./assets/images/products/clothes-3.jpg" alt="black floral wrap midi skirt" class="showcase-img"
+                      <img src="./assets/images/products/Sapatilha Moleca 5027.1407 - Preto - 36.jpg" alt="black floral wrap midi skirt" class="showcase-img"
                         width="70">
                     </a>
                   
@@ -1625,7 +1625,7 @@
                   <div class="showcase">
                   
                     <a href="#" class="showcase-img-box">
-                      <img src="./assets/images/products/shirt-1.jpg" alt="pure garment dyed cotton shirt" class="showcase-img"
+                      <img src="./assets/images/products/Chinelo Masc Dedo Rider Feel Urban 12318-Au459 Azul.jpg" alt="pure garment dyed cotton shirt" class="showcase-img"
                         width="70">
                     </a>
                   
@@ -1787,7 +1787,7 @@
                   <div class="showcase">
             
                     <a href="#" class="showcase-img-box">
-                      <img src="./assets/images/products/sports-2.jpg" alt="trekking & running shoes - black" class="showcase-img"
+                      <img src="./assets/images/products/Chuteira Futsal Adidas Rabisco Junior LaranjaPreto.jpg" alt="trekking & running shoes - black" class="showcase-img"
                         width="70">
                     </a>
             
@@ -1811,7 +1811,7 @@
                   <div class="showcase">
             
                     <a href="#" class="showcase-img-box">
-                      <img src="./assets/images/products/party-wear-1.jpg" alt="womens party wear shoes" class="showcase-img"
+                      <img src="./assets/images/products/Chinelo slide store olympikus next.jpg" alt="womens party wear shoes" class="showcase-img"
                         width="70">
                     </a>
             
@@ -1835,7 +1835,7 @@
                   <div class="showcase">
             
                     <a href="#" class="showcase-img-box">
-                      <img src="./assets/images/products/sports-3.jpg" alt="sports claw women's shoes" class="showcase-img"
+                      <img src="./assets/images/products/Bota Botina Segurança Do Trabalho Couro C Ca Frentista.jpg" alt="sports claw women's shoes" class="showcase-img"
                         width="70">
                     </a>
             
@@ -1971,7 +1971,7 @@
                   <div class="showcase">
             
                     <a href="#" class="showcase-img-box">
-                      <img src="./assets/images/products/watch-3.jpg" alt="pocket watch leather pouch" class="showcase-img"
+                      <img src="./assets/images/products/Bota Botina Segurança Do Trabalho Couro C Ca Frentista.jpg" alt="pocket watch leather pouch" class="showcase-img"
                         width="70">
                     </a>
             
@@ -1995,7 +1995,7 @@
                   <div class="showcase">
             
                     <a href="#" class="showcase-img-box">
-                      <img src="./assets/images/products/jewellery-3.jpg" alt="silver deer heart necklace" class="showcase-img"
+                      <img src="./assets/images/products/Sapato de Segurança Fortline SER2002 - Sapato Fortline Bidensidade.jpg" alt="silver deer heart necklace" class="showcase-img"
                         width="70">
                     </a>
             
@@ -2019,7 +2019,7 @@
                   <div class="showcase">
             
                     <a href="#" class="showcase-img-box">
-                      <img src="./assets/images/products/perfume.jpg" alt="titan 100 ml womens perfume" class="showcase-img"
+                      <img src="./assets/images/products/Chinelo Ipanema Maxi Glow em Glitter 27000 3340.jpg" alt="titan 100 ml womens perfume" class="showcase-img"
                         width="70">
                     </a>
             
@@ -2043,7 +2043,7 @@
                   <div class="showcase">
             
                     <a href="#" class="showcase-img-box">
-                      <img src="./assets/images/products/belt.jpg" alt="men's leather reversible belt" class="showcase-img"
+                      <img src="./assets/images/products/Chinelo Slide Ipanema Disney Stitch Infantil.jpg" alt="men's leather reversible belt" class="showcase-img"
                         width="70">
                     </a>
             
@@ -2118,7 +2118,7 @@
                   <div class="showcase">
             
                     <a href="#" class="showcase-img-box">
-                      <img src="./assets/images/products/shampoo.jpg" alt="shampoo conditioner packs" class="showcase-img"
+                      <img src="./assets/images/products/Tênis Converse All Star Cano Alto - Vermelho - Chuck Taylor - Botinha - Nolan Calçados.jpg" alt="shampoo conditioner packs" class="showcase-img"
                         width="70">
                     </a>
             
@@ -2142,7 +2142,7 @@
                   <div class="showcase">
             
                     <a href="#" class="showcase-img-box">
-                      <img src="./assets/images/products/jewellery-1.jpg" alt="rose gold peacock earrings" class="showcase-img"
+                      <img src="./assets/images/products/Chuck Taylor All Star Vermelho.jpg alt="rose gold peacock earrings" class="showcase-img"
                         width="70">
                     </a>
             
@@ -2188,7 +2188,7 @@
                 <div class="showcase">
                   
                   <div class="showcase-banner">
-                    <img src="./assets/images/products/shampoo.jpg" alt="shampoo, conditioner & facewash packs" class="showcase-img">
+                    <img src="./assets/images/products/Tênis Converse All Star Cano Alto - Vermelho - Chuck Taylor - Botinha - Nolan Calçados.jpg" alt="shampoo, conditioner & facewash packs" class="showcase-img">
                   </div>
 
                   <div class="showcase-content">
@@ -2278,7 +2278,7 @@
                 <div class="showcase">
               
                   <div class="showcase-banner">
-                    <img src="./assets/images/products/jewellery-1.jpg" alt="Rose Gold diamonds Earring" class="showcase-img">
+                    <img src="./assets/images/products/Chuck Taylor All Star Vermelho.jpg" alt="Rose Gold diamonds Earring" class="showcase-img">
                   </div>
               
                   <div class="showcase-content">
@@ -2530,9 +2530,9 @@
               <div class="showcase">
               
                 <div class="showcase-banner">
-                  <img src="./assets/images/products/clothes-3.jpg" alt="Black Floral Wrap Midi Skirt" class="product-img default"
+                  <img src="./assets/images/products/Sapatilha Moleca 5027.1407 - Preto - 36.jpg" alt="Black Floral Wrap Midi Skirt" class="product-img default"
                     width="300">
-                  <img src="./assets/images/products/clothes-4.jpg" alt="Black Floral Wrap Midi Skirt" class="product-img hover"
+                  <img src="./assets/images/products/Sapatilha Moleca 5027.1407 - Preto - 36 - 2.jpg" alt="Black Floral Wrap Midi Skirt" class="product-img hover"
                     width="300">
               
                   <p class="showcase-badge angle pink">new</p>
@@ -2634,9 +2634,9 @@
               <div class="showcase">
               
                 <div class="showcase-banner">
-                  <img src="./assets/images/products/watch-3.jpg" alt="Pocket Watch Leather Pouch" class="product-img default"
+                  <img src="./assets/images/products/Buy Nike Air Max 90 Men's Shoe.jpg" alt="Pocket Watch Leather Pouch" class="product-img default"
                     width="300">
-                  <img src="./assets/images/products/watch-4.jpg" alt="Pocket Watch Leather Pouch" class="product-img hover"
+                  <img src="./assets/images/products/Buy Nike Air Max 90 Men's Shoe - 2.jpg" alt="Pocket Watch Leather Pouch" class="product-img hover"
                     width="300">
               
                   <p class="showcase-badge angle black">sale</p>
@@ -2841,9 +2841,9 @@
               <div class="showcase">
               
                 <div class="showcase-banner">
-                  <img src="./assets/images/products/sports-2.jpg" alt="Trekking & Running Shoes - black" class="product-img default"
+                  <img src="./assets/images/products/Chuteira Futsal Adidas Rabisco Junior LaranjaPreto.jpg" alt="Trekking & Running Shoes - black" class="product-img default"
                     width="300">
-                  <img src="./assets/images/products/sports-4.jpg" alt="Trekking & Running Shoes - black" class="product-img hover"
+                  <img src="./assets/images/products/Chuteira Futsal Adidas Rabisco Junior LaranjaPreto - 2.jpg" alt="Trekking & Running Shoes - black" class="product-img hover"
                     width="300">
               
                   <p class="showcase-badge angle black">sale</p>
