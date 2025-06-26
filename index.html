@@ -1677,7 +1677,7 @@
                   <div class="showcase">
                 
                     <a href="#" class="showcase-img-box">
-                      <img src="./assets/images/products/jacket-1.jpg" alt="mens winter leathers jackets" class="showcase-img"
+                      <img src="./assets/images/products/Sandália Rasteira Sunflower Marfim.jpg" alt="mens winter leathers jackets" class="showcase-img"
                         width="70">
                     </a>
                 
@@ -1701,7 +1701,7 @@
                   <div class="showcase">
                 
                     <a href="#" class="showcase-img-box">
-                      <img src="./assets/images/products/jacket-3.jpg" alt="mens winter leathers jackets" class="showcase-img"
+                      <img src="./assets/images/products/Sandália Feminina Vizzano Salto Geométrico Preto - 38.jpg" alt="mens winter leathers jackets" class="showcase-img"
                         width="70">
                     </a>
                 
@@ -1725,7 +1725,7 @@
                   <div class="showcase">
                 
                     <a href="#" class="showcase-img-box">
-                      <img src="./assets/images/products/shorts-1.jpg" alt="better basics french terry sweatshorts" class="showcase-img"
+                      <img src="./assets/images/products/Scarpin Couro Marrom Salto Alto Cecconello 2130008-2, 39, Marrom.jpg" alt="better basics french terry sweatshorts" class="showcase-img"
                         width="70">
                     </a>
                 
@@ -1934,7 +1934,7 @@
                   <div class="showcase">
             
                     <a href="#" class="showcase-img-box">
-                      <img src="./assets/images/products/shoe-2.jpg" alt="casual men's brown shoes" class="showcase-img" width="70">
+                      <img src="./assets/images/products/Sapato Social Masculino 803 Azul Estilo Italiano Bico Quadrado Casual Casamento.jpg" alt="casual men's brown shoes" class="showcase-img" width="70">
                     </a>
             
                     <div class="showcase-content">
@@ -2095,7 +2095,7 @@
                   <div class="showcase">
             
                     <a href="#" class="showcase-img-box">
-                      <img src="./assets/images/products/watch-1.jpg" alt="smart watche vital plus" class="showcase-img" width="70">
+                      <img src="./assets/images/products/Sapato Masculino Oxford em Couro Confort Preto - Cód 41089.jpg" alt="smart watche vital plus" class="showcase-img" width="70">
                     </a>
             
                     <div class="showcase-content">
@@ -2371,8 +2371,8 @@
 
                 <div class="showcase-banner">
 
-                  <img src="./assets/images/products/jacket-3.jpg" alt="Mens Winter Leathers Jackets" width="300" class="product-img default">
-                  <img src="./assets/images/products/jacket-4.jpg" alt="Mens Winter Leathers Jackets" width="300" class="product-img hover">
+                  <img src="./assets/images/products/Sandália Feminina Vizzano Salto Geométrico Preto - 38.jpg" alt="Mens Winter Leathers Jackets" width="300" class="product-img default">
+                  <img src="./assets/images/products/Sandália Feminina Vizzano Salto Geométrico Preto - 38 - 2.jpg" alt="Mens Winter Leathers Jackets" width="300" class="product-img hover">
 
                   <p class="showcase-badge">15%</p>
 
@@ -2426,9 +2426,9 @@
               <div class="showcase">
               
                 <div class="showcase-banner">
-                  <img src="./assets/images/products/shirt-1.jpg" alt="Pure Garment Dyed Cotton Shirt" class="product-img default"
+                  <img src="./assets/images/products/Mocassim Masculino Fretz em Couro Senna Tan.jpg" alt="Pure Garment Dyed Cotton Shirt" class="product-img default"
                     width="300">
-                  <img src="./assets/images/products/shirt-2.jpg" alt="Pure Garment Dyed Cotton Shirt" class="product-img hover"
+                  <img src="./assets/images/products/Mocassim Masculino Fretz em Couro Senna Tan - 2.jpg" alt="Pure Garment Dyed Cotton Shirt" class="product-img hover"
                     width="300">
               
                   <p class="showcase-badge angle black">sale</p>
@@ -2583,9 +2583,9 @@
               <div class="showcase">
               
                 <div class="showcase-banner">
-                  <img src="./assets/images/products/shoe-2.jpg" alt="Casual Men's Brown shoes" class="product-img default"
+                  <img src="./assets/images/products/Sapato Social Masculino 803 Cores Diversas Estilo Italiano Bico Quadrado Casual Casamento.jpg" alt="Casual Men's Brown shoes" class="product-img default"
                     width="300">
-                  <img src="./assets/images/products/shoe-2_1.jpg" alt="Casual Men's Brown shoes" class="product-img hover"
+                  <img src="./assets/images/products/Sapato Social Masculino 803 Azul Estilo Italiano Bico Quadrado Casual Casamento.jpg" alt="Casual Men's Brown shoes" class="product-img hover"
                     width="300">
               
                   <div class="showcase-actions">
@@ -2687,9 +2687,9 @@
               <div class="showcase">
               
                 <div class="showcase-banner">
-                  <img src="./assets/images/products/watch-1.jpg" alt="Smart watche Vital Plus" class="product-img default"
+                  <img src="./assets/images/products/Sapato Masculino Oxford em Couro Confort Preto - Cód 41089.jpg" alt="Smart watche Vital Plus" class="product-img default"
                     width="300">
-                  <img src="./assets/images/products/watch-2.jpg" alt="Smart watche Vital Plus" class="product-img hover" width="300">
+                  <img src="./assets/images/products/Sapato Masculino Oxford em Couro Confort Preto - Cód 41089 - 2.jpg" alt="Smart watche Vital Plus" class="product-img hover" width="300">
               
                   <div class="showcase-actions">
                     <button class="btn-action">
@@ -2737,9 +2737,9 @@
               <div class="showcase">
               
                 <div class="showcase-banner">
-                  <img src="./assets/images/products/party-wear-1.jpg" alt="Womens Party Wear Shoes" class="product-img default"
+                  <img src="./assets/images/products/Sandália Feminina Rasteirinha Infantil Peep Toe Com Pérola.jpg" alt="Womens Party Wear Shoes" class="product-img default"
                     width="300">
-                  <img src="./assets/images/products/party-wear-2.jpg" alt="Womens Party Wear Shoes" class="product-img hover"
+                  <img src="./assets/images/products/Sandália Feminina Rasteirinha Infantil Peep Toe Com Pérola - 2.jpg" alt="Womens Party Wear Shoes" class="product-img hover"
                     width="300">
               
                   <p class="showcase-badge angle black">sale</p>
@@ -2790,9 +2790,9 @@
               <div class="showcase">
               
                 <div class="showcase-banner">
-                  <img src="./assets/images/products/jacket-1.jpg" alt="Mens Winter Leathers Jackets" class="product-img default"
+                  <img src="./assets/images/products/Sandália Rasteira Sunflower Marfim.jpg" alt="Mens Winter Leathers Jackets" class="product-img default"
                     width="300">
-                  <img src="./assets/images/products/jacket-2.jpg" alt="Mens Winter Leathers Jackets" class="product-img hover"
+                  <img src="./assets/images/products/Sandália Rasteira Sunflower Marfim - 2.jpg" alt="Mens Winter Leathers Jackets" class="product-img hover"
                     width="300">
               
                   <div class="showcase-actions">
@@ -2945,9 +2945,9 @@
               <div class="showcase">
               
                 <div class="showcase-banner">
-                  <img src="./assets/images/products/shorts-1.jpg" alt="Better Basics French Terry Sweatshorts"
+                  <img src="./assets/images/products/Scarpin Couro Marrom Salto Alto Cecconello 2130008-2, 39, Marrom.jpg" alt="Better Basics French Terry Sweatshorts"
                     class="product-img default" width="300">
-                  <img src="./assets/images/products/shorts-2.jpg" alt="Better Basics French Terry Sweatshorts"
+                  <img src="./assets/images/products/Scarpin Couro Preto Salto Alto Cecconello 2130008-83, 38, Preto.jpg" alt="Better Basics French Terry Sweatshorts"
                     class="product-img hover" width="300">
               
                   <p class="showcase-badge angle black">sale</p>
