@@ -1653,7 +1653,7 @@
                   <div class="showcase">
                 
                     <a href="#" class="showcase-img-box">
-                      <img src="./assets/images/products/jacket-5.jpg" alt="men yarn fleece full-zip jacket" class="showcase-img"
+                      <img src="./assets/images/products/Tênis Nike Renew Run 3 Feminino - Vermelho.jpg" alt="men yarn fleece full-zip jacket" class="showcase-img"
                         width="70">
                     </a>
                 
@@ -1863,7 +1863,7 @@
                   <div class="showcase">
             
                     <a href="#" class="showcase-img-box">
-                      <img src="./assets/images/products/sports-6.jpg" alt="air tekking shoes - white" class="showcase-img"
+                      <img src="./assets/images/products/Sandalia Cartago 12280 Dakar II, Marrom, 4344.jpg" alt="air tekking shoes - white" class="showcase-img"
                         width="70">
                     </a>
             
@@ -1887,7 +1887,7 @@
                   <div class="showcase">
             
                     <a href="#" class="showcase-img-box">
-                      <img src="./assets/images/products/shoe-3.jpg" alt="Boot With Suede Detail" class="showcase-img" width="70">
+                      <img src="./assets/images/products/Tênis Vans Old Skool Color Theory Golden Brown.jpg" alt="Boot With Suede Detail" class="showcase-img" width="70">
                     </a>
             
                     <div class="showcase-content">
@@ -1910,7 +1910,7 @@
                   <div class="showcase">
             
                     <a href="#" class="showcase-img-box">
-                      <img src="./assets/images/products/shoe-1.jpg" alt="men's leather formal wear shoes" class="showcase-img"
+                      <img src="./assets/images/products/Tenis Bota Jordan Branca com Vermelha Botinha Cano Alto Feminina e Masculina.jpg" alt="men's leather formal wear shoes" class="showcase-img"
                         width="70">
                     </a>
             
@@ -2071,7 +2071,7 @@
                   <div class="showcase">
             
                     <a href="#" class="showcase-img-box">
-                      <img src="./assets/images/products/jewellery-2.jpg" alt="platinum zircon classic ring" class="showcase-img"
+                      <img src="./assets/images/products/Chinelo Havaianas Logomania Marvel Branco.jpg" alt="platinum zircon classic ring" class="showcase-img"
                         width="70">
                     </a>
             
@@ -2142,7 +2142,7 @@
                   <div class="showcase">
             
                     <a href="#" class="showcase-img-box">
-                      <img src="./assets/images/products/Chuck Taylor All Star Vermelho.jpg alt="rose gold peacock earrings" class="showcase-img"
+                      <img src="./assets/images/products/Chuck Taylor All Star Vermelho.jpg" alt="rose gold peacock earrings" class="showcase-img"
                         width="70">
                     </a>
             
@@ -2479,9 +2479,9 @@
               <div class="showcase">
               
                 <div class="showcase-banner">
-                  <img src="./assets/images/products/jacket-5.jpg" alt="MEN Yarn Fleece Full-Zip Jacket" class="product-img default"
+                  <img src="./assets/images/products/Tênis Nike Renew Run 3 Feminino - Vermelho.jpg" alt="MEN Yarn Fleece Full-Zip Jacket" class="product-img default"
                     width="300">
-                  <img src="./assets/images/products/jacket-6.jpg" alt="MEN Yarn Fleece Full-Zip Jacket" class="product-img hover"
+                  <img src="./assets/images/products/Tênis Nike Renew Run 3 Feminino - Vermelho - 2.jpg" alt="MEN Yarn Fleece Full-Zip Jacket" class="product-img hover"
                     width="300">
               
                   <div class="showcase-actions">
@@ -2894,9 +2894,9 @@
               <div class="showcase">
               
                 <div class="showcase-banner">
-                  <img src="./assets/images/products/shoe-1.jpg" alt="Men's Leather Formal Wear shoes" class="product-img default"
+                  <img src="./assets/images/products/Tenis Bota Jordan Branca com Vermelha Botinha Cano Alto Feminina e Masculina.jpg" alt="Men's Leather Formal Wear shoes" class="product-img default"
                     width="300">
-                  <img src="./assets/images/products/shoe-1_1.jpg" alt="Men's Leather Formal Wear shoes" class="product-img hover"
+                  <img src="./assets/images/products/Tenis Bota Jordan Branca com Vermelha Botinha Cano Alto Feminina e Masculina - 2.jpg" alt="Men's Leather Formal Wear shoes" class="product-img hover"
                     width="300">
               
                   <div class="showcase-actions">
