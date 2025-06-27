@@ -156,8 +156,8 @@
 
         <div class="header-alert-news">
           <p>
-            <b>Free Shipping</b>
-            This Week Order Over - $55
+            <b>Envio grátis</b>
+            esta semana acima de - $55
           </p>
         </div>
 
@@ -165,16 +165,16 @@
 
           <select name="currency">
 
-            <option value="usd">USD &dollar;</option>
-            <option value="eur">EUR &euro;</option>
+            <option value="usd">R &dollar;</option>
+            <option value="eur">US &euro;</option>
 
           </select>
 
           <select name="language">
 
-            <option value="en-US">English</option>
-            <option value="es-ES">Espa&ntilde;ol</option>
-            <option value="fr">Fran&ccedil;ais</option>
+            <option value="pt-BR">português</option>
+            <option value="en-US">ingl&ecirc;s</option>
+            <option value="es-ES">espa&ntilde;hol</option>
 
           </select>
 
@@ -194,7 +194,7 @@
 
         <div class="header-search-container">
 
-          <input type="search" name="search" class="search-field" placeholder="Enter your product name...">
+          <input type="search" name="search" class="search-field" placeholder="Digite o nome do seu produto...">
 
           <button class="search-btn">
             <ion-icon name="search-outline"></ion-icon>
@@ -231,38 +231,38 @@
         <ul class="desktop-menu-category-list">
 
           <li class="menu-category">
-            <a href="#" class="menu-title">Home</a>
+            <a href="#" class="menu-title">Início</a>
           </li>
 
           <li class="menu-category">
-            <a href="#" class="menu-title">Categories</a>
+            <a href="#" class="menu-title">Categorias</a>
 
             <div class="dropdown-panel">
 
               <ul class="dropdown-panel-list">
 
                 <li class="menu-title">
-                  <a href="#">Electronics</a>
+                  <a href="#">Marcas</a>
                 </li>
 
                 <li class="panel-list-item">
-                  <a href="#">Desktop</a>
+                  <a href="#">Nike</a>
                 </li>
 
                 <li class="panel-list-item">
-                  <a href="#">Laptop</a>
+                  <a href="#">Adidas</a>
                 </li>
 
                 <li class="panel-list-item">
-                  <a href="#">Camera</a>
+                  <a href="#">All star</a>
                 </li>
 
                 <li class="panel-list-item">
-                  <a href="#">Tablet</a>
+                  <a href="#">Star feet</a>
                 </li>
 
                 <li class="panel-list-item">
-                  <a href="#">Headphone</a>
+                  <a href="#">Havaianas</a>
                 </li>
 
                 <li class="panel-list-item">
@@ -277,7 +277,7 @@
               <ul class="dropdown-panel-list">
 
                 <li class="menu-title">
-                  <a href="#">Men's</a>
+                  <a href="#">Masculino</a>
                 </li>
 
                 <li class="panel-list-item">
@@ -289,15 +289,15 @@
                 </li>
 
                 <li class="panel-list-item">
-                  <a href="#">Sports</a>
+                  <a href="#">Esporte</a>
                 </li>
 
                 <li class="panel-list-item">
-                  <a href="#">Jacket</a>
+                  <a href="#">Escolar</a>
                 </li>
 
                 <li class="panel-list-item">
-                  <a href="#">Sunglasses</a>
+                  <a href="#">Praia</a>
                 </li>
 
                 <li class="panel-list-item">
@@ -311,7 +311,7 @@
               <ul class="dropdown-panel-list">
 
                 <li class="menu-title">
-                  <a href="#">Women's</a>
+                  <a href="#">Feminino</a>
                 </li>
 
                 <li class="panel-list-item">
@@ -323,15 +323,15 @@
                 </li>
 
                 <li class="panel-list-item">
-                  <a href="#">Perfume</a>
+                  <a href="#">Esporte</a>
                 </li>
 
                 <li class="panel-list-item">
-                  <a href="#">Cosmetics</a>
+                  <a href="#">Escolar</a>
                 </li>
 
                 <li class="panel-list-item">
-                  <a href="#">Bags</a>
+                  <a href="#">Praia</a>
                 </li>
 
                 <li class="panel-list-item">
@@ -345,27 +345,27 @@
               <ul class="dropdown-panel-list">
 
                 <li class="menu-title">
-                  <a href="#">Electronics</a>
+                  <a href="#">Acessórios</a>
                 </li>
 
                 <li class="panel-list-item">
-                  <a href="#">Smart Watch</a>
+                  <a href="#">Cadarço</a>
                 </li>
 
                 <li class="panel-list-item">
-                  <a href="#">Smart TV</a>
+                  <a href="#">Meia</a>
                 </li>
 
                 <li class="panel-list-item">
-                  <a href="#">Keyboard</a>
+                  <a href="#">Palmilha</a>
                 </li>
 
                 <li class="panel-list-item">
-                  <a href="#">Mouse</a>
+                  <a href="#">Calçadeiras</a>
                 </li>
 
                 <li class="panel-list-item">
-                  <a href="#">Microphone</a>
+                  <a href="#">Calcanheira</a>
                 </li>
 
                 <li class="panel-list-item">
@@ -380,107 +380,107 @@
           </li>
 
           <li class="menu-category">
-            <a href="#" class="menu-title">Men's</a>
+            <a href="#" class="menu-title">Masculino</a>
 
             <ul class="dropdown-list">
 
               <li class="dropdown-item">
-                <a href="#">Shirt</a>
+                <a href="#">tênis</a>
               </li>
 
               <li class="dropdown-item">
-                <a href="#">Shorts & Jeans</a>
+                <a href="#">sapato social</a>
               </li>
 
               <li class="dropdown-item">
-                <a href="#">Safety Shoes</a>
+                <a href="#">chuteira</a>
               </li>
 
               <li class="dropdown-item">
-                <a href="#">Wallet</a>
+                <a href="#">mocassin</a>
               </li>
 
             </ul>
           </li>
 
           <li class="menu-category">
-            <a href="#" class="menu-title">Women's</a>
+            <a href="#" class="menu-title">Feminino</a>
 
             <ul class="dropdown-list">
 
               <li class="dropdown-item">
-                <a href="#">Dress & Frock</a>
+                <a href="#">tênis</a>
               </li>
 
               <li class="dropdown-item">
-                <a href="#">Earrings</a>
+                <a href="#">salto alto</a>
               </li>
 
               <li class="dropdown-item">
-                <a href="#">Necklace</a>
+                <a href="#">sapatilha</a>
               </li>
 
               <li class="dropdown-item">
-                <a href="#">Makeup Kit</a>
+                <a href="#">sandália</a>
               </li>
 
             </ul>
           </li>
 
           <li class="menu-category">
-            <a href="#" class="menu-title">Jewelry</a>
+            <a href="#" class="menu-title">Casual</a>
 
             <ul class="dropdown-list">
 
               <li class="dropdown-item">
-                <a href="#">Earrings</a>
+                <a href="#">chinelo</a>
               </li>
 
               <li class="dropdown-item">
-                <a href="#">Couple Rings</a>
+                <a href="#">tênis</a>
               </li>
 
               <li class="dropdown-item">
-                <a href="#">Necklace</a>
+                <a href="#">sandália</a>
               </li>
 
               <li class="dropdown-item">
-                <a href="#">Bracelets</a>
+                <a href="#">rasteirinha</a>
               </li>
 
             </ul>
           </li>
 
           <li class="menu-category">
-            <a href="#" class="menu-title">Perfume</a>
+            <a href="#" class="menu-title">Formal</a>
 
             <ul class="dropdown-list">
 
               <li class="dropdown-item">
-                <a href="#">Clothes Perfume</a>
+                <a href="#">mocassin</a>
               </li>
 
               <li class="dropdown-item">
-                <a href="#">Deodorant</a>
+                <a href="#">oxford</a>
               </li>
 
               <li class="dropdown-item">
-                <a href="#">Flower Fragrance</a>
+                <a href="#">salto alto</a>
               </li>
 
               <li class="dropdown-item">
-                <a href="#">Air Freshener</a>
+                <a href="#">scarpin</a>
               </li>
 
             </ul>
           </li>
 
           <li class="menu-category">
-            <a href="#" class="menu-title">Blog</a>
+            <a href="#" class="menu-title">Sobre nós</a>
           </li>
 
           <li class="menu-category">
-            <a href="#" class="menu-title">Hot Offers</a>
+            <a href="#" class="menu-title">Ofertas quentes</a>
           </li>
 
         </ul>
@@ -784,15 +784,15 @@
 
             <div class="banner-content">
 
-              <p class="banner-subtitle">Trending item</p>
+              <p class="banner-subtitle">tendências</p>
 
-              <h2 class="banner-title">Women's latest fashion sale</h2>
+              <h2 class="banner-title">A moda mais recente a venda</h2>
 
               <p class="banner-text">
-                starting at &dollar; <b>20</b>.00
+                a partir de &dollar; <b>20</b>.00
               </p>
 
-              <a href="#" class="banner-btn">Shop now</a>
+              <a href="#" class="banner-btn">compre agora</a>
 
             </div>
 
@@ -804,15 +804,15 @@
 
             <div class="banner-content">
 
-              <p class="banner-subtitle">Trending accessories</p>
+              <p class="banner-subtitle">Estilo</p>
 
-              <h2 class="banner-title">Modern sunglasses</h2>
+              <h2 class="banner-title">Tênis casual</h2>
 
               <p class="banner-text">
-                starting at &dollar; <b>15</b>.00
+                a partir de &dollar; <b>15</b>.00
               </p>
 
-              <a href="#" class="banner-btn">Shop now</a>
+              <a href="#" class="banner-btn">compre agora</a>
 
             </div>
 
@@ -824,15 +824,15 @@
 
             <div class="banner-content">
 
-              <p class="banner-subtitle">Sale Offer</p>
+              <p class="banner-subtitle">oferta a venda</p>
 
-              <h2 class="banner-title">New fashion summer sale</h2>
+              <h2 class="banner-title">Novo estilo para o inverno</h2>
 
               <p class="banner-text">
-                starting at &dollar; <b>29</b>.99
+                a partir de &dollar; <b>29</b>.99
               </p>
 
-              <a href="#" class="banner-btn">Shop now</a>
+              <a href="#" class="banner-btn">compre agora</a>
 
             </div>
 
@@ -907,7 +907,7 @@
             <div class="category-content-box">
 
               <div class="category-content-flex">
-                <h3 class="category-item-title">solas</h3>
+                <h3 class="category-item-title">palmilhas</h3>
 
                 <p class="category-item-amount">(68)</p>
               </div>
