@@ -1403,7 +1403,7 @@
 
           <div class="product-showcase">
 
-            <h3 class="showcase-heading">best sellers</h3>
+            <h3 class="showcase-heading">melhores vendedores</h3>
 
             <div class="showcase-wrapper">
 
@@ -1419,7 +1419,7 @@
                   <div class="showcase-content">
 
                     <a href="#">
-                      <h4 class="showcase-title">baby fabric shoes</h4>
+                      <h4 class="showcase-title">Meia Lupo Sport Walk Cano Curto 3 Pares</h4>
                     </a>
 
                     <div class="showcase-rating">
@@ -1449,7 +1449,7 @@
                   <div class="showcase-content">
 
                     <a href="#">
-                      <h4 class="showcase-title">men's hoodies t-shirt</h4>
+                      <h4 class="showcase-title">Palmilha Confort Pé Relax</h4>
                     </a>
                     <div class="showcase-rating">
                       <ion-icon name="star"></ion-icon>
@@ -1478,7 +1478,7 @@
                   <div class="showcase-content">
 
                     <a href="#">
-                      <h4 class="showcase-title">girls t-shirt</h4>
+                      <h4 class="showcase-title">Cadarço chato alg scera 32285 - 90cm - roxo - romeucouros</h4>
                     </a>
                     <div class="showcase-rating">
                       <ion-icon name="star"></ion-icon>
@@ -1507,7 +1507,7 @@
                   <div class="showcase-content">
 
                     <a href="#">
-                      <h4 class="showcase-title">woolen hat for men</h4>
+                      <h4 class="showcase-title">Cadarço Chato Poliester T150 - 120cm - Cinza Escuro - Par</h4>
                     </a>
                     <div class="showcase-rating">
                       <ion-icon name="star"></ion-icon>
@@ -1518,8 +1518,8 @@
                     </div>
 
                     <div class="price-box">
-                      <del>$15.00</del>
-                      <p class="price">$12.00</p>
+                      <del>$8.00</del>
+                      <p class="price">$6.00</p>
                     </div>
 
                   </div>
@@ -1546,7 +1546,7 @@
 
             <div class="product-showcase">
 
-              <h2 class="title">New Arrivals</h2>
+              <h2 class="title">Recém chegadas</h2>
 
               <div class="showcase-wrapper has-scrollbar">
 
@@ -1561,10 +1561,10 @@
                     <div class="showcase-content">
 
                       <a href="#">
-                        <h4 class="showcase-title">Relaxed Short full Sleeve T-Shirt</h4>
+                        <h4 class="showcase-title">Chinelo Havaianas Brasil Logo - Azul</h4>
                       </a>
 
-                      <a href="#" class="showcase-category">Clothes</a>
+                      <a href="#" class="showcase-category">chinelos</a>
 
                       <div class="price-box">
                         <p class="price">$45.00</p>
@@ -1584,11 +1584,11 @@
                     <div class="showcase-content">
                   
                       <a href="#">
-                        <h4 class="showcase-title">Girls pnk Embro design Top</h4>
+                        <h4 class="showcase-title">NIKE VICTORI ONE MEN'S SLIDES</h4>
                       </a>
-                  
-                      <a href="#" class="showcase-category">Clothes</a>
-                  
+
+                      <a href="#" class="showcase-category">chinelos</a>
+
                       <div class="price-box">
                         <p class="price">$61.00</p>
                         <del>$9.00</del>
@@ -1608,10 +1608,10 @@
                     <div class="showcase-content">
                   
                       <a href="#">
-                        <h4 class="showcase-title">Black Floral Wrap Midi Skirt</h4>
+                        <h4 class="showcase-title">Sapatilha Moleca 5027.1407 - Preto - 36</h4>
                       </a>
                   
-                      <a href="#" class="showcase-category">Clothes</a>
+                      <a href="#" class="showcase-category">sapatilhas</a>
                   
                       <div class="price-box">
                         <p class="price">$76.00</p>
@@ -1632,10 +1632,10 @@
                     <div class="showcase-content">
                   
                       <a href="#">
-                        <h4 class="showcase-title">Pure Garment Dyed Cotton Shirt</h4>
+                        <h4 class="showcase-title">Chinelo Masc Dedo Rider Feel Urban 12318-Au459 Azul</h4>
                       </a>
                   
-                      <a href="#" class="showcase-category">Mens Fashion</a>
+                      <a href="#" class="showcase-category">chinelos</a>
                   
                       <div class="price-box">
                         <p class="price">$68.00</p>
@@ -1660,10 +1660,10 @@
                     <div class="showcase-content">
                 
                       <a href="#">
-                        <h4 class="showcase-title">MEN Yarn Fleece Full-Zip Jacket</h4>
+                        <h4 class="showcase-title">Tênis Nike Renew Run 3 Feminino - Vermelho</h4>
                       </a>
                 
-                      <a href="#" class="showcase-category">Winter wear</a>
+                      <a href="#" class="showcase-category">tênis</a>
                 
                       <div class="price-box">
                         <p class="price">$61.00</p>
@@ -1684,10 +1684,10 @@
                     <div class="showcase-content">
                 
                       <a href="#">
-                        <h4 class="showcase-title">Mens Winter Leathers Jackets</h4>
+                        <h4 class="showcase-title">Sandália Rasteira Sunflower Marfim</h4>
                       </a>
                 
-                      <a href="#" class="showcase-category">Winter wear</a>
+                      <a href="#" class="showcase-category">sandálias</a>
                 
                       <div class="price-box">
                         <p class="price">$32.00</p>
@@ -1708,10 +1708,10 @@
                     <div class="showcase-content">
                 
                       <a href="#">
-                        <h4 class="showcase-title">Mens Winter Leathers Jackets</h4>
+                        <h4 class="showcase-title">Sandália Feminina Vizzano Salto Geométrico Preto - 38</h4>
                       </a>
                 
-                      <a href="#" class="showcase-category">Jackets</a>
+                      <a href="#" class="showcase-category">sandálias</a>
                 
                       <div class="price-box">
                         <p class="price">$50.00</p>
@@ -1732,10 +1732,10 @@
                     <div class="showcase-content">
                 
                       <a href="#">
-                        <h4 class="showcase-title">Better Basics French Terry Sweatshorts</h4>
+                        <h4 class="showcase-title">Scarpin Couro Marrom Salto Alto Cecconello 2130008-2, 39</h4>
                       </a>
                 
-                      <a href="#" class="showcase-category">Shorts</a>
+                      <a href="#" class="showcase-category">salto alto</a>
                 
                       <div class="price-box">
                         <p class="price">$20.00</p>
@@ -1754,7 +1754,7 @@
 
             <div class="product-showcase">
             
-              <h2 class="title">Trending</h2>
+              <h2 class="title">Tendências</h2>
             
               <div class="showcase-wrapper  has-scrollbar">
             
@@ -1770,11 +1770,11 @@
                     <div class="showcase-content">
             
                       <a href="#">
-                        <h4 class="showcase-title">Running & Trekking Shoes - White</h4>
+                        <h4 class="showcase-title">Chuteira Campo Adidas Predator Accuracy P4 Sock Unissex</h4>
                       </a>
-            
-                      <a href="#" class="showcase-category">Sports</a>
-            
+
+                      <a href="#" class="showcase-category">chuteiras</a>
+
                       <div class="price-box">
                         <p class="price">$49.00</p>
                         <del>$15.00</del>
@@ -1794,11 +1794,11 @@
                     <div class="showcase-content">
             
                       <a href="#">
-                        <h4 class="showcase-title">Trekking & Running Shoes - black</h4>
+                        <h4 class="showcase-title">Chuteira Futsal Adidas Rabisco Junior LaranjaPreto</h4>
                       </a>
-            
-                      <a href="#" class="showcase-category">Sports</a>
-            
+
+                      <a href="#" class="showcase-category">chuteiras</a>
+
                       <div class="price-box">
                         <p class="price">$78.00</p>
                         <del>$36.00</del>
@@ -1818,10 +1818,10 @@
                     <div class="showcase-content">
             
                       <a href="#">
-                        <h4 class="showcase-title">Womens Party Wear Shoes</h4>
+                        <h4 class="showcase-title">Chinelo slide store olympikus next</h4>
                       </a>
             
-                      <a href="#" class="showcase-category">Party wear</a>
+                      <a href="#" class="showcase-category">chinelos</a>
             
                       <div class="price-box">
                         <p class="price">$94.00</p>
@@ -1842,10 +1842,10 @@
                     <div class="showcase-content">
             
                       <a href="#">
-                        <h4 class="showcase-title">Sports Claw Women's Shoes</h4>
+                        <h4 class="showcase-title">Bota Botina Segurança Do Trabalho Couro C Ca Frentista</h4>
                       </a>
             
-                      <a href="#" class="showcase-category">Sports</a>
+                      <a href="#" class="showcase-category">EPI-s</a>
             
                       <div class="price-box">
                         <p class="price">$54.00</p>
@@ -1870,10 +1870,10 @@
                     <div class="showcase-content">
             
                       <a href="#">
-                        <h4 class="showcase-title">Air Trekking Shoes - white</h4>
+                        <h4 class="showcase-title">Sandália Cartago 12280 Dakar II, Marrom, 4344</h4>
                       </a>
             
-                      <a href="#" class="showcase-category">Sports</a>
+                      <a href="#" class="showcase-category">sandálias</a>
             
                       <div class="price-box">
                         <p class="price">$52.00</p>
@@ -1893,10 +1893,10 @@
                     <div class="showcase-content">
             
                       <a href="#">
-                        <h4 class="showcase-title">Boot With Suede Detail</h4>
+                        <h4 class="showcase-title">Tênis Vans Old Skool Color Theory Golden Brown</h4>
                       </a>
             
-                      <a href="#" class="showcase-category">boots</a>
+                      <a href="#" class="showcase-category">tênis</a>
             
                       <div class="price-box">
                         <p class="price">$20.00</p>
@@ -1917,10 +1917,10 @@
                     <div class="showcase-content">
             
                       <a href="#">
-                        <h4 class="showcase-title">Men's Leather Formal Wear shoes</h4>
+                        <h4 class="showcase-title">Tênis Bota Jordan Branca com Vermelha Botinha Cano Alto Feminina e Masculina</h4>
                       </a>
             
-                      <a href="#" class="showcase-category">formal</a>
+                      <a href="#" class="showcase-category">tênis</a>
             
                       <div class="price-box">
                         <p class="price">$56.00</p>
@@ -1940,10 +1940,10 @@
                     <div class="showcase-content">
             
                       <a href="#">
-                        <h4 class="showcase-title">Casual Men's Brown shoes</h4>
+                        <h4 class="showcase-title">Sapato Social Masculino 803 Azul Estilo Italiano Bico Quadrado Casual Casamento</h4>
                       </a>
             
-                      <a href="#" class="showcase-category">Casual</a>
+                      <a href="#" class="showcase-category">sapato social</a>
             
                       <div class="price-box">
                         <p class="price">$50.00</p>
@@ -1962,7 +1962,7 @@
 
             <div class="product-showcase">
             
-              <h2 class="title">Top Rated</h2>
+              <h2 class="title">Os principais avaliados</h2>
             
               <div class="showcase-wrapper  has-scrollbar">
             
@@ -1978,10 +1978,10 @@
                     <div class="showcase-content">
             
                       <a href="#">
-                        <h4 class="showcase-title">Pocket Watch Leather Pouch</h4>
+                        <h4 class="showcase-title">Bota Botina Segurança Do Trabalho Couro C Ca Frentista</h4>
                       </a>
             
-                      <a href="#" class="showcase-category">Watches</a>
+                      <a href="#" class="showcase-category">EPI-s</a>
             
                       <div class="price-box">
                         <p class="price">$50.00</p>
@@ -2002,10 +2002,10 @@
                     <div class="showcase-content">
             
                       <a href="#">
-                        <h4 class="showcase-title">Silver Deer Heart Necklace</h4>
+                        <h4 class="showcase-title">Sapato de Segurança Fortline SER2002 - Sapato Fortline Bidensidade</h4>
                       </a>
             
-                      <a href="#" class="showcase-category">Jewellery</a>
+                      <a href="#" class="showcase-category">EPI-s</a>
             
                       <div class="price-box">
                         <p class="price">$84.00</p>
@@ -2026,10 +2026,10 @@
                     <div class="showcase-content">
             
                       <a href="#">
-                        <h4 class="showcase-title">Titan 100 Ml Womens Perfume</h4>
+                        <h4 class="showcase-title">Chinelo Ipanema Maxi Glow em Glitter 27000 3340</h4>
                       </a>
             
-                      <a href="#" class="showcase-category">Perfume</a>
+                      <a href="#" class="showcase-category">chinelos</a>
             
                       <div class="price-box">
                         <p class="price">$42.00</p>
@@ -2050,11 +2050,11 @@
                     <div class="showcase-content">
             
                       <a href="#">
-                        <h4 class="showcase-title">Men's Leather Reversible Belt</h4>
+                        <h4 class="showcase-title">Chinelo Slide Ipanema Disney Stitch Infantil</h4>
                       </a>
-            
-                      <a href="#" class="showcase-category">Belt</a>
-            
+
+                      <a href="#" class="showcase-category">chinelos</a>
+
                       <div class="price-box">
                         <p class="price">$24.00</p>
                         <del>$10.00</del>
@@ -2078,10 +2078,10 @@
                     <div class="showcase-content">
             
                       <a href="#">
-                        <h4 class="showcase-title">platinum Zircon Classic Ring</h4>
+                        <h4 class="showcase-title">Chinelo Havaianas Logomania Marvel Branco</h4>
                       </a>
             
-                      <a href="#" class="showcase-category">jewellery</a>
+                      <a href="#" class="showcase-category">chinelos</a>
             
                       <div class="price-box">
                         <p class="price">$62.00</p>
@@ -2101,10 +2101,10 @@
                     <div class="showcase-content">
             
                       <a href="#">
-                        <h4 class="showcase-title">Smart watche Vital Plus</h4>
+                        <h4 class="showcase-title">Sapato Masculino Oxford em Couro Confort Preto - Cód 41089</h4>
                       </a>
             
-                      <a href="#" class="showcase-category">Watches</a>
+                      <a href="#" class="showcase-category">oxfords</a>
             
                       <div class="price-box">
                         <p class="price">$56.00</p>
@@ -2125,10 +2125,10 @@
                     <div class="showcase-content">
             
                       <a href="#">
-                        <h4 class="showcase-title">shampoo conditioner packs</h4>
+                        <h4 class="showcase-title">Tênis Converse All Star Cano Alto - Vermelho - Chuck Taylor - Botinha - Nolan Calçados</h4>
                       </a>
             
-                      <a href="#" class="showcase-category">cosmetics</a>
+                      <a href="#" class="showcase-category">tênis</a>
             
                       <div class="price-box">
                         <p class="price">$20.00</p>
@@ -2149,10 +2149,10 @@
                     <div class="showcase-content">
             
                       <a href="#">
-                        <h4 class="showcase-title">Rose Gold Peacock Earrings</h4>
+                        <h4 class="showcase-title">Chuck Taylor All Star Vermelho</h4>
                       </a>
             
-                      <a href="#" class="showcase-category">jewellery</a>
+                      <a href="#" class="showcase-category">tênis</a>
             
                       <div class="price-box">
                         <p class="price">$20.00</p>
@@ -2179,7 +2179,7 @@
 
           <div class="product-featured">
 
-            <h2 class="title">Deal of the day</h2>
+            <h2 class="title">Ideal para o dia</h2>
 
             <div class="showcase-wrapper has-scrollbar">
 
@@ -2202,7 +2202,7 @@
                     </div>
 
                     <a href="#">
-                      <h3 class="showcase-title">shampoo, conditioner & facewash packs</h3>
+                      <h3 class="showcase-title">Tênis Converse All Star Cano Alto - Vermelho - Chuck Taylor - Botinha - Nolan Calçados</h3>
                     </a>
 
                     <p class="showcase-desc">
@@ -2216,7 +2216,8 @@
                       <del>$200.00</del>
                     </div>
 
-                    <button class="add-cart-btn">add to cart</button>
+                    <button class="add-cart-btn">Adicionar ao carrinho
+                    </button>
 
                     <div class="showcase-status">
                       <div class="wrapper">
@@ -2292,7 +2293,7 @@
                     </div>
               
                     <h3 class="showcase-title">
-                      <a href="#" class="showcase-title">Rose Gold diamonds Earring</a>
+                      <a href="#" class="showcase-title">Chuck Taylor All Star Vermelho</a>
                     </h3>
               
                     <p class="showcase-desc">
@@ -2305,7 +2306,7 @@
                       <del>$2000.00</del>
                     </div>
               
-                    <button class="add-cart-btn">add to cart</button>
+                    <button class="add-cart-btn">Adicionar ao carrinho</button>
               
                     <div class="showcase-status">
                       <div class="wrapper">
@@ -2363,7 +2364,7 @@
 
           <div class="product-main">
 
-            <h2 class="title">New Products</h2>
+            <h2 class="title">Novos calçados</h2>
 
             <div class="product-grid">
 
@@ -2400,10 +2401,10 @@
 
                 <div class="showcase-content">
 
-                  <a href="#" class="showcase-category">jacket</a>
+                  <a href="#" class="showcase-category">sandálias</a>
 
                   <a href="#">
-                    <h3 class="showcase-title">Mens Winter Leathers Jackets</h3>
+                    <h3 class="showcase-title">Sandália Feminina Vizzano Salto Geométrico Preto - 38</h3>
                   </a>
 
                   <div class="showcase-rating">
@@ -2431,7 +2432,7 @@
                   <img src="./assets/images/products/Mocassim Masculino Fretz em Couro Senna Tan - 2.jpg" alt="Pure Garment Dyed Cotton Shirt" class="product-img hover"
                     width="300">
               
-                  <p class="showcase-badge angle black">sale</p>
+                  <p class="showcase-badge angle black">oferta</p>
               
                   <div class="showcase-actions">
                     <button class="btn-action">
@@ -2453,10 +2454,10 @@
                 </div>
               
                 <div class="showcase-content">
-                  <a href="#" class="showcase-category">shirt</a>
+                  <a href="#" class="showcase-category">mocassins</a>
               
                   <h3>
-                    <a href="#" class="showcase-title">Pure Garment Dyed Cotton Shirt</a>
+                    <a href="#" class="showcase-title">Mocassim Masculino Fretz em Couro Senna Tan</a>
                   </h3>
               
                   <div class="showcase-rating">
@@ -2504,10 +2505,10 @@
                 </div>
               
                 <div class="showcase-content">
-                  <a href="#" class="showcase-category">Jacket</a>
+                  <a href="#" class="showcase-category">tênis</a>
               
                   <h3>
-                    <a href="#" class="showcase-title">MEN Yarn Fleece Full-Zip Jacket</a>
+                    <a href="#" class="showcase-title">Tênis Nike Renew Run 3 Feminino - Vermelho</a>
                   </h3>
               
                   <div class="showcase-rating">
@@ -2535,7 +2536,7 @@
                   <img src="./assets/images/products/Sapatilha Moleca 5027.1407 - Preto - 36 - 2.jpg" alt="Black Floral Wrap Midi Skirt" class="product-img hover"
                     width="300">
               
-                  <p class="showcase-badge angle pink">new</p>
+                  <p class="showcase-badge angle pink">novo</p>
               
                   <div class="showcase-actions">
                     <button class="btn-action">
@@ -2557,10 +2558,10 @@
                 </div>
               
                 <div class="showcase-content">
-                  <a href="#" class="showcase-category">skirt</a>
+                  <a href="#" class="showcase-category">sapatilhas</a>
               
                   <h3>
-                    <a href="#" class="showcase-title">Black Floral Wrap Midi Skirt</a>
+                    <a href="#" class="showcase-title">Sapatilha Moleca 5027.1407 - Preto - 36</a>
                   </h3>
               
                   <div class="showcase-rating">
@@ -2608,10 +2609,10 @@
                 </div>
               
                 <div class="showcase-content">
-                  <a href="#" class="showcase-category">casual</a>
+                  <a href="#" class="showcase-category">sapato social</a>
               
                   <h3>
-                    <a href="#" class="showcase-title">Casual Men's Brown shoes</a>
+                    <a href="#" class="showcase-title">Sapato Social Masculino 803 Cores Diversas Estilo Italiano Bico Quadrado Casual Casamento</a>
                   </h3>
               
                   <div class="showcase-rating">
@@ -2639,7 +2640,7 @@
                   <img src="./assets/images/products/Buy Nike Air Max 90 Men's Shoe - 2.jpg" alt="Pocket Watch Leather Pouch" class="product-img hover"
                     width="300">
               
-                  <p class="showcase-badge angle black">sale</p>
+                  <p class="showcase-badge angle black">oferta</p>
               
                   <div class="showcase-actions">
                     <button class="btn-action">
@@ -2661,10 +2662,10 @@
                 </div>
               
                 <div class="showcase-content">
-                  <a href="#" class="showcase-category">watches</a>
+                  <a href="#" class="showcase-category">tênis</a>
               
                   <h3>
-                    <a href="#" class="showcase-title">Pocket Watch Leather Pouch</a>
+                    <a href="#" class="showcase-title">Nike Air Max 90 tênis masculino</a>
                   </h3>
               
                   <div class="showcase-rating">
@@ -2711,10 +2712,10 @@
                 </div>
               
                 <div class="showcase-content">
-                  <a href="#" class="showcase-category">watches</a>
+                  <a href="#" class="showcase-category">oxfords</a>
               
                   <h3>
-                    <a href="#" class="showcase-title">Smart watche Vital Plus</a>
+                    <a href="#" class="showcase-title">Sapato Masculino Oxford em Couro Confort Preto - Cód 41089</a>
                   </h3>
               
                   <div class="showcase-rating">
@@ -2742,7 +2743,7 @@
                   <img src="./assets/images/products/Sandália Feminina Rasteirinha Infantil Peep Toe Com Pérola - 2.jpg" alt="Womens Party Wear Shoes" class="product-img hover"
                     width="300">
               
-                  <p class="showcase-badge angle black">sale</p>
+                  <p class="showcase-badge angle black">oferta</p>
               
                   <div class="showcase-actions">
                     <button class="btn-action">
@@ -2764,10 +2765,10 @@
                 </div>
               
                 <div class="showcase-content">
-                  <a href="#" class="showcase-category">party wear</a>
+                  <a href="#" class="showcase-category">sandálias</a>
               
                   <h3>
-                    <a href="#" class="showcase-title">Womens Party Wear Shoes</a>
+                    <a href="#" class="showcase-title">Sandália Feminina Rasteirinha Infantil Peep Toe Com Pérola</a>
                   </h3>
               
                   <div class="showcase-rating">
@@ -2815,10 +2816,10 @@
                 </div>
               
                 <div class="showcase-content">
-                  <a href="#" class="showcase-category">jacket</a>
+                  <a href="#" class="showcase-category">sandálias</a>
               
                   <h3>
-                    <a href="#" class="showcase-title">Mens Winter Leathers Jackets</a>
+                    <a href="#" class="showcase-title">Sandália Rasteira Sunflower Marfim</a>
                   </h3>
               
                   <div class="showcase-rating">
@@ -2846,7 +2847,7 @@
                   <img src="./assets/images/products/Chuteira Futsal Adidas Rabisco Junior LaranjaPreto - 2.jpg" alt="Trekking & Running Shoes - black" class="product-img hover"
                     width="300">
               
-                  <p class="showcase-badge angle black">sale</p>
+                  <p class="showcase-badge angle black">oferta</p>
               
                   <div class="showcase-actions">
                     <button class="btn-action">
@@ -2868,10 +2869,10 @@
                 </div>
               
                 <div class="showcase-content">
-                  <a href="#" class="showcase-category">sports</a>
+                  <a href="#" class="showcase-category">chuteiras</a>
               
                   <h3>
-                    <a href="#" class="showcase-title">Trekking & Running Shoes - black</a>
+                    <a href="#" class="showcase-title">Chuteira Futsal Adidas Rabisco Junior Laranja e Preto</a>
                   </h3>
               
                   <div class="showcase-rating">
@@ -2919,10 +2920,10 @@
                 </div>
               
                 <div class="showcase-content">
-                  <a href="#" class="showcase-category">formal</a>
+                  <a href="#" class="showcase-category">tênis</a>
               
                   <h3>
-                    <a href="#" class="showcase-title">Men's Leather Formal Wear shoes</a>
+                    <a href="#" class="showcase-title">Tenis Bota Jordan Branca com Vermelha Botinha Cano Alto Feminina e Masculina</a>
                   </h3>
               
                   <div class="showcase-rating">
@@ -2950,7 +2951,7 @@
                   <img src="./assets/images/products/Scarpin Couro Preto Salto Alto Cecconello 2130008-83, 38, Preto.jpg" alt="Better Basics French Terry Sweatshorts"
                     class="product-img hover" width="300">
               
-                  <p class="showcase-badge angle black">sale</p>
+                  <p class="showcase-badge angle black">oferta</p>
               
                   <div class="showcase-actions">
                     <button class="btn-action">
@@ -2972,10 +2973,10 @@
                 </div>
               
                 <div class="showcase-content">
-                  <a href="#" class="showcase-category">shorts</a>
+                  <a href="#" class="showcase-category">salto alto</a>
               
                   <h3>
-                    <a href="#" class="showcase-title">Better Basics French Terry Sweatshorts</a>
+                    <a href="#" class="showcase-title">Scarpin Couro Marrom Salto Alto Cecconello 2130008-2, 39</a>
                   </h3>
               
                   <div class="showcase-rating">
