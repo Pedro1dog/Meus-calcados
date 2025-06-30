@@ -3026,21 +3026,20 @@
 
           <div class="testimonial">
 
-            <h2 class="title">testimonial</h2>
+            <h2 class="title">Depoimentos</h2>
 
             <div class="testimonial-card">
 
               <img src="./assets/images/testimonial-1.jpg" alt="alan doe" class="testimonial-banner" width="80" height="80">
 
-              <p class="testimonial-name">Alan Doe</p>
+              <p class="testimonial-name">Pedro Henrique</p>
 
-              <p class="testimonial-title">CEO & Founder Invision</p>
+              <p class="testimonial-title">Pedro1dog</p>
 
               <img src="./assets/images/icons/quotes.svg" alt="quotation" class="quotation-img" width="26">
 
               <p class="testimonial-desc">
-                Lorem ipsum dolor sit amet consectetur Lorem ipsum
-                dolor dolor sit amet.
+                Quando criamos essa empresa, pensamos no publíco em geral, em que cada um queira vir e nos procurar para conseguir o calçado certo para o pé.
               </p>
 
             </div>
@@ -3059,13 +3058,13 @@
 
             <a href="#" class="cta-content">
 
-              <p class="discount">25% Discount</p>
+              <p class="discount">25% de disconto</p>
 
-              <h2 class="cta-title">Summer collection</h2>
+              <h2 class="cta-title">Coleção do verão</h2>
 
-              <p class="cta-text">Starting @ $10</p>
+              <p class="cta-text">Começando com $10</p>
 
-              <button class="cta-btn">Shop now</button>
+              <button class="cta-btn">compre agora</button>
 
             </a>
 
@@ -3079,7 +3078,7 @@
 
           <div class="service">
 
-            <h2 class="title">Our Services</h2>
+            <h2 class="title">Nossos serviços</h2>
 
             <div class="service-container">
 
@@ -3091,8 +3090,8 @@
 
                 <div class="service-content">
 
-                  <h3 class="service-title">Worldwide Delivery</h3>
-                  <p class="service-desc">For Order Over $100</p>
+                  <h3 class="service-title">Entrega internacional</h3>
+                  <p class="service-desc">Acima de $100</p>
 
                 </div>
 
@@ -3106,8 +3105,8 @@
               
                 <div class="service-content">
               
-                  <h3 class="service-title">Next Day delivery</h3>
-                  <p class="service-desc">UK Orders Only</p>
+                  <h3 class="service-title">Entrega rápida</h3>
+                  <p class="service-desc">Apenas encomenda BR</p>
               
                 </div>
               
@@ -3121,8 +3120,8 @@
               
                 <div class="service-content">
               
-                  <h3 class="service-title">Best Online Support</h3>
-                  <p class="service-desc">Hours: 8AM - 11PM</p>
+                  <h3 class="service-title">Melhor suporte online</h3>
+                  <p class="service-desc">Horários: 8:00 - 22:00</p>
               
                 </div>
               
@@ -3136,8 +3135,8 @@
               
                 <div class="service-content">
               
-                  <h3 class="service-title">Return Policy</h3>
-                  <p class="service-desc">Easy & Free Return</p>
+                  <h3 class="service-title">Política de devolução</h3>
+                  <p class="service-desc">Devolução fácil e grátis</p>
               
                 </div>
               
@@ -3151,8 +3150,8 @@
               
                 <div class="service-content">
               
-                  <h3 class="service-title">30% money back</h3>
-                  <p class="service-desc">For Order Over $100</p>
+                  <h3 class="service-title">30% do seu dinheiro devolta</h3>
+                  <p class="service-desc">Acima de $100</p>
               
                 </div>
               
