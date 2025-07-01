@@ -285,7 +285,7 @@
                 </li>
 
                 <li class="panel-list-item">
-                  <a href="#">Casual</a>
+                  <a href="#">Infantil</a>
                 </li>
 
                 <li class="panel-list-item">
@@ -319,7 +319,7 @@
                 </li>
 
                 <li class="panel-list-item">
-                  <a href="#">Casual</a>
+                  <a href="#">Infantil</a>
                 </li>
 
                 <li class="panel-list-item">
@@ -2206,14 +2206,13 @@
                     </a>
 
                     <p class="showcase-desc">
-                      Lorem ipsum dolor sit amet consectetur Lorem ipsum
-                      dolor dolor sit amet consectetur Lorem ipsum dolor
+                      Quem não gostaria de usar um All star no seu dia a dia? Temos aqui um modelo de cano alto para você.
                     </p>
 
                     <div class="price-box">
-                      <p class="price">$150.00</p>
+                      <p class="price">$95.00</p>
 
-                      <del>$200.00</del>
+                      <del>$100.00</del>
                     </div>
 
                     <button class="add-cart-btn">Adicionar ao carrinho
@@ -2222,11 +2221,11 @@
                     <div class="showcase-status">
                       <div class="wrapper">
                         <p>
-                          already sold: <b>20</b>
+                          já vendido: <b>20</b>
                         </p>
 
                         <p>
-                          available: <b>40</b>
+                          disponível: <b>40</b>
                         </p>
                       </div>
 
@@ -2236,7 +2235,7 @@
                     <div class="countdown-box">
 
                       <p class="countdown-desc">
-                        Hurry Up! Offer ends in:
+                        Se apresse! A oferta termina em:
                       </p>
 
                       <div class="countdown">
@@ -2245,13 +2244,13 @@
 
                           <p class="display-number">360</p>
 
-                          <p class="display-text">Days</p>
+                          <p class="display-text">Dias</p>
 
                         </div>
 
                         <div class="countdown-content">
                           <p class="display-number">24</p>
-                          <p class="display-text">Hours</p>
+                          <p class="display-text">Horas</p>
                         </div>
 
                         <div class="countdown-content">
@@ -2261,7 +2260,7 @@
 
                         <div class="countdown-content">
                           <p class="display-number">00</p>
-                          <p class="display-text">Sec</p>
+                          <p class="display-text">Seg</p>
                         </div>
 
                       </div>
@@ -2297,22 +2296,21 @@
                     </h3>
               
                     <p class="showcase-desc">
-                      Lorem ipsum dolor sit amet consectetur Lorem ipsum
-                      dolor dolor sit amet consectetur Lorem ipsum dolor
+                      Quem não gostaria de usar um All star no seu dia a dia? Temos aqui um modelo para você.
                     </p>
               
                     <div class="price-box">
-                      <p class="price">$1990.00</p>
-                      <del>$2000.00</del>
+                      <p class="price">$70.00</p>
+                      <del>$79.99</del>
                     </div>
               
                     <button class="add-cart-btn">Adicionar ao carrinho</button>
               
                     <div class="showcase-status">
                       <div class="wrapper">
-                        <p> already sold: <b>15</b> </p>
+                        <p> já vendido: <b>15</b> </p>
               
-                        <p> available: <b>40</b> </p>
+                        <p> disponível: <b>40</b> </p>
                       </div>
               
                       <div class="showcase-status-bar"></div>
@@ -2320,17 +2318,17 @@
               
                     <div class="countdown-box">
               
-                      <p class="countdown-desc">Hurry Up! Offer ends in:</p>
+                      <p class="countdown-desc">Se apresse! A oferta termina em</p>
               
                       <div class="countdown">
                         <div class="countdown-content">
                           <p class="display-number">360</p>
-                          <p class="display-text">Days</p>
+                          <p class="display-text">Dias</p>
                         </div>
               
                         <div class="countdown-content">
                           <p class="display-number">24</p>
-                          <p class="display-text">Hours</p>
+                          <p class="display-text">Horas</p>
                         </div>
               
                         <div class="countdown-content">
@@ -2340,7 +2338,7 @@
               
                         <div class="countdown-content">
                           <p class="display-number">00</p>
-                          <p class="display-text">Sec</p>
+                          <p class="display-text">Seg</p>
                         </div>
                       </div>
               
@@ -3189,14 +3187,14 @@
 
             <div class="blog-content">
 
-              <a href="#" class="blog-category">Fashion</a>
+              <a href="#" class="blog-category">Infantil</a>
 
               <a href="#">
-                <h3 class="blog-title">Clothes Retail KPIs 2021 Guide for Clothes Executives.</h3>
+                <h3 class="blog-title">Dicas para o seu pequeno sobre como ter conforto nos pés.</h3>
               </a>
 
               <p class="blog-meta">
-                By <cite>Mr Admin</cite> / <time datetime="2022-04-06">Apr 06, 2022</time>
+                By <cite>Sr Admin</cite> / <time datetime="2022-04-06">06,Abr, 2022</time>
               </p>
 
             </div>
@@ -3212,14 +3210,14 @@
           
             <div class="blog-content">
           
-              <a href="#" class="blog-category">Clothes</a>
+              <a href="#" class="blog-category">Formal</a>
           
               <h3>
-                <a href="#" class="blog-title">Curbside fashion Trends: How to Win the Pickup Battle.</a>
+                <a href="#" class="blog-title">Vai para algum evento e ainda não sabe qual sapato usar? Oferecemos aqui algumas opções que você vai gostar.</a>
               </h3>
           
               <p class="blog-meta">
-                By <cite>Mr Robin</cite> / <time datetime="2022-01-18">Jan 18, 2022</time>
+                By <cite>Sr Robin</cite> / <time datetime="2022-01-18">18, Jan, 2022</time>
               </p>
           
             </div>
@@ -3235,14 +3233,14 @@
           
             <div class="blog-content">
           
-              <a href="#" class="blog-category">Shoes</a>
+              <a href="#" class="blog-category">Formal</a>
           
               <h3>
-                <a href="#" class="blog-title">EBT vendors: Claim Your Share of SNAP Online Revenue.</a>
+                <a href="#" class="blog-title">Temos o que você precisa para usar num casamento.</a>
               </h3>
           
               <p class="blog-meta">
-                By <cite>Mr Selsa</cite> / <time datetime="2022-02-10">Feb 10, 2022</time>
+                By <cite>Sr Selsa</cite> / <time datetime="2022-02-10">10, Fev, 2022</time>
               </p>
           
             </div>
@@ -3258,14 +3256,14 @@
           
             <div class="blog-content">
           
-              <a href="#" class="blog-category">Electronics</a>
+              <a href="#" class="blog-category">Infantil</a>
           
               <h3>
-                <a href="#" class="blog-title">Curbside fashion Trends: How to Win the Pickup Battle.</a>
+                <a href="#" class="blog-title">Novidades para as meninas.</a>
               </h3>
           
               <p class="blog-meta">
-                By <cite>Mr Pawar</cite> / <time datetime="2022-03-15">Mar 15, 2022</time>
+                By <cite>Srs Pawar</cite> / <time datetime="2022-03-15">15, Mar, 2022</time>
               </p>
           
             </div>
