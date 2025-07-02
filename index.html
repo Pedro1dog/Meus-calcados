@@ -56,17 +56,17 @@
 
           <div class="newsletter-header">
 
-            <h3 class="newsletter-title">Subscribe Newsletter.</h3>
+            <h3 class="newsletter-title">Se junte a nós.</h3>
 
             <p class="newsletter-desc">
-              Subscribe the <b>Anon</b> to get latest products and discount update.
+              Se inscreva em <b>Meus calçados</b> para conseguir os produto mais recentes e discontos atualizados.
             </p>
 
           </div>
 
-          <input type="email" name="email" class="email-field" placeholder="Email Address" required>
+          <input type="email" name="email" class="email-field" placeholder="Endereço de e-mail" required>
 
-          <button type="submit" class="btn-newsletter">Subscribe</button>
+          <button type="submit" class="btn-newsletter">Inscreva-se</button>
 
         </form>
 
@@ -97,15 +97,15 @@
     <div class="toast-detail">
 
       <p class="toast-message">
-        Someone in new just bought
+        Alguém novo comprou o produto
       </p>
 
       <p class="toast-title">
-        Rose Gold Earrings
+        Chuck Taylor All Star Vermelho
       </p>
 
       <p class="toast-meta">
-        <time datetime="PT2M">2 Minutes</time> ago
+        <time datetime="PT2M">2 Minutos</time> atrás
       </p>
 
     </div>
@@ -872,7 +872,7 @@
                 <p class="category-item-amount">(53)</p>
               </div>
 
-              <a href="#" class="category-btn">Show all</a>
+              <a href="#" class="category-btn">mostrar tudo</a>
 
             </div>
 
@@ -892,7 +892,7 @@
                 <p class="category-item-amount">(58)</p>
               </div>
 
-              <a href="#" class="category-btn">Show all</a>
+              <a href="#" class="category-btn">mostrar tudo</a>
 
             </div>
 
@@ -901,7 +901,7 @@
           <div class="category-item">
 
             <div class="category-img-box">
-              <img src="./assets/images/icons/sola.svg" alt="glasses & lens" width="30">
+              <img src="./assets/images/icons/palmilha.svg" alt="glasses & lens" width="30">
             </div>
 
             <div class="category-content-box">
@@ -912,7 +912,7 @@
                 <p class="category-item-amount">(68)</p>
               </div>
 
-              <a href="#" class="category-btn">Show all</a>
+              <a href="#" class="category-btn">mostrar tudo</a>
 
             </div>
 
@@ -932,7 +932,7 @@
                 <p class="category-item-amount">(84)</p>
               </div>
 
-              <a href="#" class="category-btn">Show all</a>
+              <a href="#" class="category-btn">mostrar tudo</a>
 
             </div>
 
@@ -952,7 +952,7 @@
                 <p class="category-item-amount">(35)</p>
               </div>
 
-              <a href="#" class="category-btn">Show all</a>
+              <a href="#" class="category-btn">mostrar tudo</a>
 
             </div>
 
@@ -972,7 +972,7 @@
                 <p class="category-item-amount">(16)</p>
               </div>
 
-              <a href="#" class="category-btn">Show all</a>
+              <a href="#" class="category-btn">mostrar tudo</a>
 
             </div>
 
@@ -981,18 +981,18 @@
           <div class="category-item">
 
             <div class="category-img-box">
-              <img src="./assets/images/icons/chuteira.svg" alt="watch" width="30">
+              <img src="./assets/images/icons/bota.svg" alt="watch" width="30">
             </div>
 
             <div class="category-content-box">
 
               <div class="category-content-flex">
-                <h3 class="category-item-title">chuteiras</h3>
+                <h3 class="category-item-title">botas</h3>
 
                 <p class="category-item-amount">(27)</p>
               </div>
 
-              <a href="#" class="category-btn">Show all</a>
+              <a href="#" class="category-btn">mostrar tudo</a>
 
             </div>
 
@@ -1012,7 +1012,7 @@
                 <p class="category-item-amount">(39)</p>
               </div>
 
-              <a href="#" class="category-btn">Show all</a>
+              <a href="#" class="category-btn">mostrar tudo</a>
 
             </div>
 
@@ -1684,7 +1684,7 @@
                     <div class="showcase-content">
                 
                       <a href="#">
-                        <h4 class="showcase-title">Sandália Rasteira Sunflower Marfim</h4>
+                        <h4 class="showcase-title">Sandália Rasteira Sunflower Marfim Via miss</h4>
                       </a>
                 
                       <a href="#" class="showcase-category">sandálias</a>
@@ -1940,7 +1940,7 @@
                     <div class="showcase-content">
             
                       <a href="#">
-                        <h4 class="showcase-title">Sapato Social Masculino 803 Azul Estilo Italiano Bico Quadrado Casual Casamento</h4>
+                        <h4 class="showcase-title">Sapato Social Masculino Schiareli 803 Azul Estilo Italiano Bico Quadrado Casual Casamento</h4>
                       </a>
             
                       <a href="#" class="showcase-category">sapato social</a>
@@ -2101,7 +2101,7 @@
                     <div class="showcase-content">
             
                       <a href="#">
-                        <h4 class="showcase-title">Sapato Masculino Oxford em Couro Confort Preto - Cód 41089</h4>
+                        <h4 class="showcase-title">Sapato Masculino Porto free Oxford em Couro Confort Preto - Cód 41089</h4>
                       </a>
             
                       <a href="#" class="showcase-category">oxfords</a>
@@ -2610,7 +2610,7 @@
                   <a href="#" class="showcase-category">sapato social</a>
               
                   <h3>
-                    <a href="#" class="showcase-title">Sapato Social Masculino 803 Cores Diversas Estilo Italiano Bico Quadrado Casual Casamento</a>
+                    <a href="#" class="showcase-title">Sapato Social Masculino Schiareli 803 Cores Diversas Estilo Italiano Bico Quadrado Casual Casamento</a>
                   </h3>
               
                   <div class="showcase-rating">
@@ -2713,7 +2713,7 @@
                   <a href="#" class="showcase-category">oxfords</a>
               
                   <h3>
-                    <a href="#" class="showcase-title">Sapato Masculino Oxford em Couro Confort Preto - Cód 41089</a>
+                    <a href="#" class="showcase-title">Sapato Masculino Porto free Oxford em Couro Confort Preto - Cód 41089</a>
                   </h3>
               
                   <div class="showcase-rating">
@@ -2817,7 +2817,7 @@
                   <a href="#" class="showcase-category">sandálias</a>
               
                   <h3>
-                    <a href="#" class="showcase-title">Sandália Rasteira Sunflower Marfim</a>
+                    <a href="#" class="showcase-title">Sandália Rasteira Sunflower Marfim Via miss</a>
                   </h3>
               
                   <div class="showcase-rating">
@@ -3194,7 +3194,7 @@
               </a>
 
               <p class="blog-meta">
-                By <cite>Sr Admin</cite> / <time datetime="2022-04-06">06,Abr, 2022</time>
+                De <cite>Sr Admin</cite> / <time datetime="2022-04-06">06,Abr, 2022</time>
               </p>
 
             </div>
@@ -3217,7 +3217,7 @@
               </h3>
           
               <p class="blog-meta">
-                By <cite>Sr Robin</cite> / <time datetime="2022-01-18">18, Jan, 2022</time>
+                De <cite>Sr Robin</cite> / <time datetime="2022-01-18">18, Jan, 2022</time>
               </p>
           
             </div>
@@ -3240,7 +3240,7 @@
               </h3>
           
               <p class="blog-meta">
-                By <cite>Sr Selsa</cite> / <time datetime="2022-02-10">10, Fev, 2022</time>
+                De <cite>Srs Selsa</cite> / <time datetime="2022-02-10">10, Fev, 2022</time>
               </p>
           
             </div>
@@ -3263,7 +3263,7 @@
               </h3>
           
               <p class="blog-meta">
-                By <cite>Srs Pawar</cite> / <time datetime="2022-03-15">15, Mar, 2022</time>
+                De <cite>Srs Pawar</cite> / <time datetime="2022-03-15">15, Mar, 2022</time>
               </p>
           
             </div>
@@ -3292,32 +3292,39 @@
 
       <div class="container">
 
-        <h2 class="footer-category-title">Brand directory</h2>
+        <h2 class="footer-category-title">Marca diretório</h2>
 
         <div class="footer-category-box">
 
-          <h3 class="category-box-title">Fashion :</h3>
+          <h3 class="category-box-title">Calçados :</h3>
 
-          <a href="#" class="footer-category-link">T-shirt</a>
-          <a href="#" class="footer-category-link">Shirts</a>
-          <a href="#" class="footer-category-link">shorts & jeans</a>
-          <a href="#" class="footer-category-link">jacket</a>
-          <a href="#" class="footer-category-link">dress & frock</a>
-          <a href="#" class="footer-category-link">innerwear</a>
-          <a href="#" class="footer-category-link">hosiery</a>
+          <a href="#" class="footer-category-link">bota</a>
+          <a href="#" class="footer-category-link">cadarço</a>
+          <a href="#" class="footer-category-link">chinelo</a>
+          <a href="#" class="footer-category-link">chuteira</a>
+          <a href="#" class="footer-category-link">EPI-s</a>
+          <a href="#" class="footer-category-link">meia</a>
+          <a href="#" class="footer-category-link">mocassin</a>
+          <a href="#" class="footer-category-link">oxford</a>
+          <a href="#" class="footer-category-link">palmilha</a>
+          <a href="#" class="footer-category-link">rasteirinha</a>
+          <a href="#" class="footer-category-link">salto alto</a>
+          <a href="#" class="footer-category-link">sandália</a>
+          <a href="#" class="footer-category-link">sapatilha</a>
+          <a href="#" class="footer-category-link">tênis</a>
 
         </div>
 
         <div class="footer-category-box">
-          <h3 class="category-box-title">footwear :</h3>
+          <h3 class="category-box-title">Estilo :</h3>
         
-          <a href="#" class="footer-category-link">sport</a>
-          <a href="#" class="footer-category-link">formal</a>
-          <a href="#" class="footer-category-link">Boots</a>
-          <a href="#" class="footer-category-link">casual</a>
-          <a href="#" class="footer-category-link">cowboy shoes</a>
-          <a href="#" class="footer-category-link">safety shoes</a>
-          <a href="#" class="footer-category-link">Party wear shoes</a>
+          <a href="#" class="footer-category-link">Formal</a>
+          <a href="#" class="footer-category-link">Infantil</a>
+          <a href="#" class="footer-category-link">Esporte</a>
+          <a href="#" class="footer-category-link">Escolar</a>
+          <a href="#" class="footer-category-link">Praia</a>
+          <a href="#" class="footer-category-link">Masculino</a>
+          <a href="#" class="footer-category-link">Feminino</a>
           <a href="#" class="footer-category-link">Branded</a>
           <a href="#" class="footer-category-link">Firstcopy</a>
           <a href="#" class="footer-category-link">Long shoes</a>
@@ -3340,24 +3347,32 @@
         </div>
 
         <div class="footer-category-box">
-          <h3 class="category-box-title">cosmetics :</h3>
+          <h3 class="category-box-title">Marcas :</h3>
         
-          <a href="#" class="footer-category-link">Shampoo</a>
-          <a href="#" class="footer-category-link">Bodywash</a>
-          <a href="#" class="footer-category-link">Facewash</a>
-          <a href="#" class="footer-category-link">makeup kit</a>
-          <a href="#" class="footer-category-link">liner</a>
-          <a href="#" class="footer-category-link">lipstick</a>
-          <a href="#" class="footer-category-link">prefume</a>
-          <a href="#" class="footer-category-link">Body soap</a>
-          <a href="#" class="footer-category-link">scrub</a>
-          <a href="#" class="footer-category-link">hair gel</a>
-          <a href="#" class="footer-category-link">hair colors</a>
-          <a href="#" class="footer-category-link">hair dye</a>
-          <a href="#" class="footer-category-link">sunscreen</a>
-          <a href="#" class="footer-category-link">skin loson</a>
-          <a href="#" class="footer-category-link">liner</a>
-          <a href="#" class="footer-category-link">lipstick</a>
+          <a href="#" class="footer-category-link">Nike</a>
+          <a href="#" class="footer-category-link">Havaianas</a>
+          <a href="#" class="footer-category-link">Ipanema</a>
+          <a href="#" class="footer-category-link">Rider</a>
+          <a href="#" class="footer-category-link">Olympikus</a>
+          <a href="#" class="footer-category-link">All star</a>
+          <a href="#" class="footer-category-link">Adidas</a>
+          <a href="#" class="footer-category-link">Lupo</a>
+          <a href="#" class="footer-category-link">Andacco</a>
+          <a href="#" class="footer-category-link">Pé relax</a>
+          <a href="#" class="footer-category-link">Cartago</a>
+          <a href="#" class="footer-category-link">Dakota</a>
+          <a href="#" class="footer-category-link">Menina fashion</a>
+          <a href="#" class="footer-category-link">Vizzano</a>
+          <a href="#" class="footer-category-link">Moleca</a>
+          <a href="#" class="footer-category-link">Via miss</a>
+          <a href="#" class="footer-category-link">Fortline</a>
+          <a href="#" class="footer-category-link">Ferracini</a>
+          <a href="#" class="footer-category-link">Porto free</a>
+          <a href="#" class="footer-category-link">Schiareli</a>
+          <a href="#" class="footer-category-link">Sândalo</a>
+          <a href="#" class="footer-category-link">Woche</a>
+          <a href="#" class="footer-category-link">Cecconello</a>
+          <a href="#" class="footer-category-link">Vans</a>
         </div>
 
       </div>
@@ -3371,7 +3386,7 @@
         <ul class="footer-nav-list">
 
           <li class="footer-nav-item">
-            <h2 class="nav-title">Popular Categories</h2>
+            <h2 class="nav-title">Categorias populares</h2>
           </li>
 
           <li class="footer-nav-item">
@@ -3399,7 +3414,7 @@
         <ul class="footer-nav-list">
         
           <li class="footer-nav-item">
-            <h2 class="nav-title">Products</h2>
+            <h2 class="nav-title">Produtos</h2>
           </li>
         
           <li class="footer-nav-item">
@@ -3427,7 +3442,7 @@
         <ul class="footer-nav-list">
         
           <li class="footer-nav-item">
-            <h2 class="nav-title">Our Company</h2>
+            <h2 class="nav-title">Nossa companhia</h2>
           </li>
         
           <li class="footer-nav-item">
@@ -3455,7 +3470,7 @@
         <ul class="footer-nav-list">
         
           <li class="footer-nav-item">
-            <h2 class="nav-title">Services</h2>
+            <h2 class="nav-title">Serviços</h2>
           </li>
         
           <li class="footer-nav-item">
@@ -3483,7 +3498,7 @@
         <ul class="footer-nav-list">
 
           <li class="footer-nav-item">
-            <h2 class="nav-title">Contact</h2>
+            <h2 class="nav-title">Contato</h2>
           </li>
 
           <li class="footer-nav-item flex">
