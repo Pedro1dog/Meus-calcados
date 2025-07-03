@@ -961,13 +961,13 @@
           <div class="category-item">
 
             <div class="category-img-box">
-              <img src="./assets/images/icons/chinelo.svg" alt="jacket" width="30">
+              <img src="./assets/images/icons/oxford.svg" alt="jacket" width="30">
             </div>
 
             <div class="category-content-box">
 
               <div class="category-content-flex">
-                <h3 class="category-item-title">chinelos</h3>
+                <h3 class="category-item-title">oxfords</h3>
 
                 <p class="category-item-amount">(16)</p>
               </div>
@@ -1077,29 +1077,29 @@
 
                   <li class="sidebar-submenu-category">
                     <a href="#" class="sidebar-submenu-title">
-                      <p class="product-name">Shirt</p>
-                      <data value="300" class="stock" title="Available Stock">300</data>
+                      <p class="product-name">All star</p>
+                      <data value="30" class="stock" title="Available Stock">30</data>
                     </a>
                   </li>
 
                   <li class="sidebar-submenu-category">
                     <a href="#" class="sidebar-submenu-title">
-                      <p class="product-name">shorts & jeans</p>
+                      <p class="product-name">Nike</p>
                       <data value="60" class="stock" title="Available Stock">60</data>
                     </a>
                   </li>
 
                   <li class="sidebar-submenu-category">
                     <a href="#" class="sidebar-submenu-title">
-                      <p class="product-name">jacket</p>
+                      <p class="product-name">Vans</p>
                       <data value="50" class="stock" title="Available Stock">50</data>
                     </a>
                   </li>
 
                   <li class="sidebar-submenu-category">
                     <a href="#" class="sidebar-submenu-title">
-                      <p class="product-name">dress & frock</p>
-                      <data value="87" class="stock" title="Available Stock">87</data>
+                      <p class="product-name">Olympikus</p>
+                      <data value="5" class="stock" title="Available Stock">5</data>
                     </a>
                   </li>
 
@@ -1129,28 +1129,28 @@
 
                   <li class="sidebar-submenu-category">
                     <a href="#" class="sidebar-submenu-title">
-                      <p class="product-name">Sports</p>
+                      <p class="product-name">Adidas</p>
                       <data value="45" class="stock" title="Available Stock">45</data>
                     </a>
                   </li>
 
                   <li class="sidebar-submenu-category">
                     <a href="#" class="sidebar-submenu-title">
-                      <p class="product-name">Formal</p>
-                      <data value="75" class="stock" title="Available Stock">75</data>
+                      <p class="product-name">Nike</p>
+                      <data value="5" class="stock" title="Available Stock">5</data>
                     </a>
                   </li>
 
                   <li class="sidebar-submenu-category">
                     <a href="#" class="sidebar-submenu-title">
-                      <p class="product-name">Casual</p>
+                      <p class="product-name">Cronos</p>
                       <data value="35" class="stock" title="Available Stock">35</data>
                     </a>
                   </li>
 
                   <li class="sidebar-submenu-category">
                     <a href="#" class="sidebar-submenu-title">
-                      <p class="product-name">Safety Shoes</p>
+                      <p class="product-name">Umbro</p>
                       <data value="26" class="stock" title="Available Stock">26</data>
                     </a>
                   </li>
@@ -1181,24 +1181,38 @@
 
                   <li class="sidebar-submenu-category">
                     <a href="#" class="sidebar-submenu-title">
-                      <p class="product-name">Earrings</p>
+                      <p class="product-name">Havaianas</p>
                       <data value="46" class="stock" title="Available Stock">46</data>
                     </a>
                   </li>
 
                   <li class="sidebar-submenu-category">
                     <a href="#" class="sidebar-submenu-title">
-                      <p class="product-name">Couple Rings</p>
+                      <p class="product-name">Nike</p>
                       <data value="73" class="stock" title="Available Stock">73</data>
                     </a>
                   </li>
 
                   <li class="sidebar-submenu-category">
                     <a href="#" class="sidebar-submenu-title">
-                      <p class="product-name">Necklace</p>
+                      <p class="product-name">Rider</p>
                       <data value="61" class="stock" title="Available Stock">61</data>
                     </a>
                   </li>
+                  
+                  <li class="sidebar-submenu-category">
+                    <a href="#" class="sidebar-submenu-title">
+                      <p class="product-name">Olympikus</p>
+                      <data value="42" class="stock" title="Available Stock">42</data>
+                    </a>
+                  </li>
+
+                  <li class="sidebar-submenu-category">
+                    <a href="#" class="sidebar-submenu-title">
+                      <p class="product-name">Ipanema</p>
+                      <data value="30" class="stock" title="Available Stock">30</data>
+                    </a>
+                  </li>    
 
                 </ul>
 
@@ -1226,29 +1240,22 @@
 
                   <li class="sidebar-submenu-category">
                     <a href="#" class="sidebar-submenu-title">
-                      <p class="product-name">Clothes Perfume</p>
-                      <data value="12" class="stock" title="Available Stock">12 pcs</data>
+                      <p class="product-name">Andacco</p>
+                      <data value="62" class="stock" title="Available Stock">62</data>
                     </a>
                   </li>
 
                   <li class="sidebar-submenu-category">
                     <a href="#" class="sidebar-submenu-title">
-                      <p class="product-name">Deodorant</p>
-                      <data value="60" class="stock" title="Available Stock">60 pcs</data>
+                      <p class="product-name">Art nobre</p>
+                      <data value="50" class="stock" title="Available Stock">50</data>
                     </a>
                   </li>
 
                   <li class="sidebar-submenu-category">
                     <a href="#" class="sidebar-submenu-title">
-                      <p class="product-name">jacket</p>
-                      <data value="50" class="stock" title="Available Stock">50 pcs</data>
-                    </a>
-                  </li>
-
-                  <li class="sidebar-submenu-category">
-                    <a href="#" class="sidebar-submenu-title">
-                      <p class="product-name">dress & frock</p>
-                      <data value="87" class="stock" title="Available Stock">87 pcs</data>
+                      <p class="product-name">Hugo boss</p>
+                      <data value="81" class="stock" title="Available Stock">81</data>
                     </a>
                   </li>
 
@@ -1261,10 +1268,10 @@
                 <button class="sidebar-accordion-menu" data-accordion-btn>
 
                   <div class="menu-title-flex">
-                    <img src="./assets/images/icons/oxford.svg" alt="cosmetics" class="menu-title-img" width="20"
+                    <img src="./assets/images/icons/sapato social.svg" alt="cosmetics" class="menu-title-img" width="20"
                       height="20">
 
-                    <p class="menu-title">oxfords</p>
+                    <p class="menu-title">sapato social</p>
                   </div>
 
                   <div>
@@ -1278,29 +1285,22 @@
 
                   <li class="sidebar-submenu-category">
                     <a href="#" class="sidebar-submenu-title">
-                      <p class="product-name">Shampoo</p>
-                      <data value="68" class="stock" title="Available Stock">68</data>
+                      <p class="product-name">Schiareli</p>
+                      <data value="55" class="stock" title="Available Stock">55</data>
                     </a>
                   </li>
 
                   <li class="sidebar-submenu-category">
                     <a href="#" class="sidebar-submenu-title">
-                      <p class="product-name">Sunscreen</p>
-                      <data value="46" class="stock" title="Available Stock">46</data>
+                      <p class="product-name">Sândalo</p>
+                      <data value="77" class="stock" title="Available Stock">77</data>
                     </a>
                   </li>
 
                   <li class="sidebar-submenu-category">
                     <a href="#" class="sidebar-submenu-title">
-                      <p class="product-name">Body Wash</p>
-                      <data value="79" class="stock" title="Available Stock">79</data>
-                    </a>
-                  </li>
-
-                  <li class="sidebar-submenu-category">
-                    <a href="#" class="sidebar-submenu-title">
-                      <p class="product-name">Makeup Kit</p>
-                      <data value="23" class="stock" title="Available Stock">23</data>
+                      <p class="product-name">Woche</p>
+                      <data value="12" class="stock" title="Available Stock">12</data>
                     </a>
                   </li>
 
@@ -1330,15 +1330,15 @@
 
                   <li class="sidebar-submenu-category">
                     <a href="#" class="sidebar-submenu-title">
-                      <p class="product-name">Sunglasses</p>
-                      <data value="50" class="stock" title="Available Stock">50</data>
+                      <p class="product-name">Via miss</p>
+                      <data value="69" class="stock" title="Available Stock">69</data>
                     </a>
                   </li>
 
                   <li class="sidebar-submenu-category">
                     <a href="#" class="sidebar-submenu-title">
-                      <p class="product-name">Lenses</p>
-                      <data value="48" class="stock" title="Available Stock">48</data>
+                      <p class="product-name">Menina fashion</p>
+                      <data value="47" class="stock" title="Available Stock">47</data>
                     </a>
                   </li>
 
@@ -1367,29 +1367,29 @@
 
                   <li class="sidebar-submenu-category">
                     <a href="#" class="sidebar-submenu-title">
-                      <p class="product-name">Shopping Bag</p>
+                      <p class="product-name">Cecconello</p>
                       <data value="62" class="stock" title="Available Stock">62</data>
                     </a>
                   </li>
 
                   <li class="sidebar-submenu-category">
                     <a href="#" class="sidebar-submenu-title">
-                      <p class="product-name">Gym Backpack</p>
-                      <data value="35" class="stock" title="Available Stock">35</data>
+                      <p class="product-name">Vizzano</p>
+                      <data value="38" class="stock" title="Available Stock">38</data>
                     </a>
                   </li>
 
                   <li class="sidebar-submenu-category">
                     <a href="#" class="sidebar-submenu-title">
-                      <p class="product-name">Purse</p>
-                      <data value="80" class="stock" title="Available Stock">80</data>
+                      <p class="product-name">Gats</p>
+                      <data value="10" class="stock" title="Available Stock">10</data>
                     </a>
                   </li>
 
                   <li class="sidebar-submenu-category">
                     <a href="#" class="sidebar-submenu-title">
-                      <p class="product-name">Wallet</p>
-                      <data value="75" class="stock" title="Available Stock">75</data>
+                      <p class="product-name">Beira rio</p>
+                      <data value="4" class="stock" title="Available Stock">4</data>
                     </a>
                   </li>
 
@@ -1725,17 +1725,17 @@
                   <div class="showcase">
                 
                     <a href="#" class="showcase-img-box">
-                      <img src="./assets/images/products/Scarpin Couro Marrom Salto Alto Cecconello 2130008-2, 39, Marrom.jpg" alt="better basics french terry sweatshorts" class="showcase-img"
+                      <img src="./assets/images/products/Sapato Social Woche Fivela Texturizado Verniz Preto.jpg" alt="better basics french terry sweatshorts" class="showcase-img"
                         width="70">
                     </a>
                 
                     <div class="showcase-content">
                 
                       <a href="#">
-                        <h4 class="showcase-title">Scarpin Couro Marrom Salto Alto Cecconello 2130008-2, 39</h4>
+                        <h4 class="showcase-title">Sapato Social Woche Fivela Texturizado Verniz Preto</h4>
                       </a>
                 
-                      <a href="#" class="showcase-category">salto alto</a>
+                      <a href="#" class="showcase-category">sapato social</a>
                 
                       <div class="price-box">
                         <p class="price">$20.00</p>
@@ -1910,17 +1910,17 @@
                   <div class="showcase">
             
                     <a href="#" class="showcase-img-box">
-                      <img src="./assets/images/products/Tenis Bota Jordan Branca com Vermelha Botinha Cano Alto Feminina e Masculina.jpg" alt="men's leather formal wear shoes" class="showcase-img"
+                      <img src="./assets/images/products/Sapato Social Sândalo Taylor Cadarço Preto.jpg" alt="men's leather formal wear shoes" class="showcase-img"
                         width="70">
                     </a>
             
                     <div class="showcase-content">
             
                       <a href="#">
-                        <h4 class="showcase-title">Tênis Bota Jordan Branca com Vermelha Botinha Cano Alto Feminina e Masculina</h4>
+                        <h4 class="showcase-title">Sapato Social Sândalo Taylor Cadarço Preto</h4>
                       </a>
             
-                      <a href="#" class="showcase-category">tênis</a>
+                      <a href="#" class="showcase-category">sapato social</a>
             
                       <div class="price-box">
                         <p class="price">$56.00</p>
@@ -2142,17 +2142,17 @@
                   <div class="showcase">
             
                     <a href="#" class="showcase-img-box">
-                      <img src="./assets/images/products/Chuck Taylor All Star Vermelho.jpg" alt="rose gold peacock earrings" class="showcase-img"
+                      <img src="./assets/images/products/Sandália Papete Moleca Flatform Feminina.jpg" alt="rose gold peacock earrings" class="showcase-img"
                         width="70">
                     </a>
             
                     <div class="showcase-content">
             
                       <a href="#">
-                        <h4 class="showcase-title">Chuck Taylor All Star Vermelho</h4>
+                        <h4 class="showcase-title">Sandália Papete Moleca Flatform Feminina</h4>
                       </a>
             
-                      <a href="#" class="showcase-category">tênis</a>
+                      <a href="#" class="showcase-category">sandália</a>
             
                       <div class="price-box">
                         <p class="price">$20.00</p>
@@ -2455,7 +2455,7 @@
                   <a href="#" class="showcase-category">mocassins</a>
               
                   <h3>
-                    <a href="#" class="showcase-title">Mocassim Masculino Fretz em Couro Senna Tan</a>
+                    <a href="#" class="showcase-title">Mocassim Andacco Masculino Fretz em Couro Senna Tan</a>
                   </h3>
               
                   <div class="showcase-rating">
@@ -3373,6 +3373,12 @@
           <a href="#" class="footer-category-link">Woche</a>
           <a href="#" class="footer-category-link">Cecconello</a>
           <a href="#" class="footer-category-link">Vans</a>
+          <a href="#" class="footer-category-link">Umbro</a>
+          <a href="#" class="footer-category-link">Cronos</a>
+          <a href="#" class="footer-category-link">Art nobre</a>
+          <a href="#" class="footer-category-link">Hugo boss</a>
+          <a href="#" class="footer-category-link">Gats</a>
+          <a href="#" class="footer-category-link">Beira rio</a>
         </div>
 
       </div>
