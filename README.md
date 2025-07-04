@@ -789,7 +789,7 @@
               <h2 class="banner-title">A moda mais recente a venda</h2>
 
               <p class="banner-text">
-                a partir de &dollar; <b>20</b>.00
+                a partir de &dollar; <b>39</b>.99
               </p>
 
               <a href="#" class="banner-btn">compre agora</a>
@@ -809,7 +809,7 @@
               <h2 class="banner-title">Tênis casual</h2>
 
               <p class="banner-text">
-                a partir de &dollar; <b>15</b>.00
+                a partir de &dollar; <b>20</b>.00
               </p>
 
               <a href="#" class="banner-btn">compre agora</a>
@@ -829,7 +829,7 @@
               <h2 class="banner-title">Novo estilo para o inverno</h2>
 
               <p class="banner-text">
-                a partir de &dollar; <b>29</b>.99
+                a partir de &dollar; <b>19</b>.99
               </p>
 
               <a href="#" class="banner-btn">compre agora</a>
@@ -1431,7 +1431,7 @@
                     </div>
 
                     <div class="price-box">
-                      <del>$5.00</del>
+                      <del>$4.49</del>
                       <p class="price">$4.00</p>
                     </div>
 
@@ -1460,7 +1460,7 @@
                     </div>
 
                     <div class="price-box">
-                      <del>$17.00</del>
+                      <del>$12.00</del>
                       <p class="price">$7.00</p>
                     </div>
 
@@ -1489,8 +1489,8 @@
                     </div>
 
                     <div class="price-box">
-                      <del>$5.00</del>
-                      <p class="price">$3.00</p>
+                      <del>$4.00</del>
+                      <p class="price">$2.00</p>
                     </div>
 
                   </div>
@@ -1518,8 +1518,8 @@
                     </div>
 
                     <div class="price-box">
-                      <del>$8.00</del>
-                      <p class="price">$6.00</p>
+                      <del>$6.00</del>
+                      <p class="price">$3.00</p>
                     </div>
 
                   </div>
@@ -1568,7 +1568,7 @@
 
                       <div class="price-box">
                         <p class="price">$45.00</p>
-                        <del>$12.00</del>
+                        <del>$42.00</del>
                       </div>
 
                     </div>
@@ -1590,8 +1590,8 @@
                       <a href="#" class="showcase-category">chinelos</a>
 
                       <div class="price-box">
-                        <p class="price">$61.00</p>
-                        <del>$9.00</del>
+                        <p class="price">$42.00</p>
+                        <del>$39.00</del>
                       </div>
                   
                     </div>
@@ -1599,10 +1599,11 @@
                   </div>
 
                   <div class="showcase">
-                  
+                
                     <a href="#" class="showcase-img-box">
                       <img src="./assets/images/products/Sapatilha Moleca 5027.1407 - Preto - 36.jpg" alt="black floral wrap midi skirt" class="showcase-img"
                         width="70">
+
                     </a>
                   
                     <div class="showcase-content">
@@ -1614,8 +1615,8 @@
                       <a href="#" class="showcase-category">sapatilhas</a>
                   
                       <div class="price-box">
-                        <p class="price">$76.00</p>
-                        <del>$25.00</del>
+                        <p class="price">$65.00</p>
+                        <del>$72.00</del>
                       </div>
                   
                     </div>
@@ -1638,8 +1639,8 @@
                       <a href="#" class="showcase-category">chinelos</a>
                   
                       <div class="price-box">
-                        <p class="price">$68.00</p>
-                        <del>$31.00</del>
+                        <p class="price">$39.90</p>
+                        <del>$31.89</del>
                       </div>
                   
                     </div>
@@ -1666,8 +1667,8 @@
                       <a href="#" class="showcase-category">tênis</a>
                 
                       <div class="price-box">
-                        <p class="price">$61.00</p>
-                        <del>$11.00</del>
+                        <p class="price">$51.00</p>
+                        <del>$61.00</del>
                       </div>
                 
                     </div>
@@ -1691,7 +1692,7 @@
                 
                       <div class="price-box">
                         <p class="price">$32.00</p>
-                        <del>$20.00</del>
+                        <del>$27.00</del>
                       </div>
                 
                     </div>
@@ -1714,8 +1715,8 @@
                       <a href="#" class="showcase-category">sandálias</a>
                 
                       <div class="price-box">
-                        <p class="price">$50.00</p>
-                        <del>$25.00</del>
+                        <p class="price">$45.00</p>
+                        <del>$60.00</del>
                       </div>
                 
                     </div>
@@ -1738,8 +1739,8 @@
                       <a href="#" class="showcase-category">sapato social</a>
                 
                       <div class="price-box">
-                        <p class="price">$20.00</p>
-                        <del>$10.00</del>
+                        <p class="price">$40.00</p>
+                        <del>$30.00</del>
                       </div>
                 
                     </div>
@@ -1776,8 +1777,8 @@
                       <a href="#" class="showcase-category">chuteiras</a>
 
                       <div class="price-box">
-                        <p class="price">$49.00</p>
-                        <del>$15.00</del>
+                        <p class="price">$59.00</p>
+                        <del>$55.00</del>
                       </div>
             
                     </div>
@@ -1800,8 +1801,8 @@
                       <a href="#" class="showcase-category">chuteiras</a>
 
                       <div class="price-box">
-                        <p class="price">$78.00</p>
-                        <del>$36.00</del>
+                        <p class="price">$66.00</p>
+                        <del>$70.00</del>
                       </div>
             
                     </div>
@@ -1824,8 +1825,8 @@
                       <a href="#" class="showcase-category">chinelos</a>
             
                       <div class="price-box">
-                        <p class="price">$94.00</p>
-                        <del>$42.00</del>
+                        <p class="price">$60.00</p>
+                        <del>$52.00</del>
                       </div>
             
                     </div>
@@ -1848,8 +1849,8 @@
                       <a href="#" class="showcase-category">EPI-s</a>
             
                       <div class="price-box">
-                        <p class="price">$54.00</p>
-                        <del>$65.00</del>
+                        <p class="price">$35.00</p>
+                        <del>$55.00</del>
                       </div>
             
                     </div>
@@ -1877,7 +1878,7 @@
             
                       <div class="price-box">
                         <p class="price">$52.00</p>
-                        <del>$55.00</del>
+                        <del>$54.99</del>
                       </div>
             
                     </div>
@@ -1899,8 +1900,8 @@
                       <a href="#" class="showcase-category">tênis</a>
             
                       <div class="price-box">
-                        <p class="price">$20.00</p>
-                        <del>$30.00</del>
+                        <p class="price">$60.00</p>
+                        <del>$70.00</del>
                       </div>
             
                     </div>
@@ -1924,7 +1925,7 @@
             
                       <div class="price-box">
                         <p class="price">$56.00</p>
-                        <del>$78.00</del>
+                        <del>$70.00</del>
                       </div>
             
                     </div>
@@ -1946,8 +1947,8 @@
                       <a href="#" class="showcase-category">sapato social</a>
             
                       <div class="price-box">
-                        <p class="price">$50.00</p>
-                        <del>$55.00</del>
+                        <p class="price">$80.00</p>
+                        <del>$85.00</del>
                       </div>
             
                     </div>
@@ -1971,21 +1972,21 @@
                   <div class="showcase">
             
                     <a href="#" class="showcase-img-box">
-                      <img src="./assets/images/products/Bota Botina Segurança Do Trabalho Couro C Ca Frentista.jpg" alt="pocket watch leather pouch" class="showcase-img"
+                      <img src="./assets/images/products/Tenis Bota Jordan Branca com Vermelha Botinha Cano Alto Feminina e Masculina.jpg" alt="pocket watch leather pouch" class="showcase-img"
                         width="70">
                     </a>
             
                     <div class="showcase-content">
             
                       <a href="#">
-                        <h4 class="showcase-title">Bota Botina Segurança Do Trabalho Couro C Ca Frentista</h4>
+                        <h4 class="showcase-title">Tenis Bota Jordan Branca com Vermelha Botinha Cano Alto Feminina e Masculina</h4>
                       </a>
             
-                      <a href="#" class="showcase-category">EPI-s</a>
+                      <a href="#" class="showcase-category">tênis</a>
             
                       <div class="price-box">
-                        <p class="price">$50.00</p>
-                        <del>$34.00</del>
+                        <p class="price">$64.00</p>
+                        <del>$72.00</del>
                       </div>
             
                     </div>
@@ -2008,8 +2009,8 @@
                       <a href="#" class="showcase-category">EPI-s</a>
             
                       <div class="price-box">
-                        <p class="price">$84.00</p>
-                        <del>$30.00</del>
+                        <p class="price">$54.00</p>
+                        <del>$40.00</del>
                       </div>
             
                     </div>
@@ -2033,7 +2034,7 @@
             
                       <div class="price-box">
                         <p class="price">$42.00</p>
-                        <del>$10.00</del>
+                        <del>$30.00</del>
                       </div>
             
                     </div>
@@ -2056,8 +2057,8 @@
                       <a href="#" class="showcase-category">chinelos</a>
 
                       <div class="price-box">
-                        <p class="price">$24.00</p>
-                        <del>$10.00</del>
+                        <p class="price">$34.00</p>
+                        <del>$20.00</del>
                       </div>
             
                     </div>
@@ -2084,8 +2085,8 @@
                       <a href="#" class="showcase-category">chinelos</a>
             
                       <div class="price-box">
-                        <p class="price">$62.00</p>
-                        <del>$65.00</del>
+                        <p class="price">$49.90</p>
+                        <del>$54.00</del>
                       </div>
             
                     </div>
@@ -2108,7 +2109,7 @@
             
                       <div class="price-box">
                         <p class="price">$56.00</p>
-                        <del>$78.00</del>
+                        <del>$58.00</del>
                       </div>
             
                     </div>
@@ -2131,8 +2132,8 @@
                       <a href="#" class="showcase-category">tênis</a>
             
                       <div class="price-box">
-                        <p class="price">$20.00</p>
-                        <del>$30.00</del>
+                        <p class="price">$85.00</p>
+                        <del>$90.00</del>
                       </div>
             
                     </div>
@@ -2155,8 +2156,8 @@
                       <a href="#" class="showcase-category">sandália</a>
             
                       <div class="price-box">
-                        <p class="price">$20.00</p>
-                        <del>$30.00</del>
+                        <p class="price">$32.00</p>
+                        <del>$42.00</del>
                       </div>
             
                     </div>
@@ -2210,9 +2211,9 @@
                     </p>
 
                     <div class="price-box">
-                      <p class="price">$95.00</p>
+                      <p class="price">$85.00</p>
 
-                      <del>$100.00</del>
+                      <del>$90.00</del>
                     </div>
 
                     <button class="add-cart-btn">Adicionar ao carrinho
@@ -2414,8 +2415,8 @@
                   </div>
 
                   <div class="price-box">
-                    <p class="price">$48.00</p>
-                    <del>$75.00</del>
+                    <p class="price">$45.00</p>
+                    <del>$60.00</del>
                   </div>
 
                 </div>
@@ -2467,8 +2468,8 @@
                   </div>
               
                   <div class="price-box">
-                    <p class="price">$45.00</p>
-                    <del>$56.00</del>
+                    <p class="price">$56.00</p>
+                    <del>$60.00</del>
                   </div>
               
                 </div>
@@ -2518,8 +2519,8 @@
                   </div>
               
                   <div class="price-box">
-                    <p class="price">$58.00</p>
-                    <del>$65.00</del>
+                    <p class="price">$51.00</p>
+                    <del>$61.00</del>
                   </div>
               
                 </div>
@@ -2571,8 +2572,8 @@
                   </div>
               
                   <div class="price-box">
-                    <p class="price">$25.00</p>
-                    <del>$35.00</del>
+                    <p class="price">$65.00</p>
+                    <del>$72.00</del>
                   </div>
               
                 </div>
@@ -2622,8 +2623,8 @@
                   </div>
               
                   <div class="price-box">
-                    <p class="price">$99.00</p>
-                    <del>$105.00</del>
+                    <p class="price">$80.00</p>
+                    <del>$85.00</del>
                   </div>
               
                 </div>
@@ -2675,8 +2676,8 @@
                   </div>
               
                   <div class="price-box">
-                    <p class="price">$150.00</p>
-                    <del>$170.00</del>
+                    <p class="price">$89.00</p>
+                    <del>$92.00</del>
                   </div>
               
                 </div>
@@ -2725,8 +2726,8 @@
                   </div>
               
                   <div class="price-box">
-                    <p class="price">$100.00</p>
-                    <del>$120.00</del>
+                    <p class="price">$56.00</p>
+                    <del>$58.00</del>
                   </div>
               
                 </div>
@@ -2778,7 +2779,7 @@
                   </div>
               
                   <div class="price-box">
-                    <p class="price">$25.00</p>
+                    <p class="price">$26.00</p>
                     <del>$30.00</del>
                   </div>
               
@@ -2830,7 +2831,7 @@
               
                   <div class="price-box">
                     <p class="price">$32.00</p>
-                    <del>$45.00</del>
+                    <del>$27.00</del>
                   </div>
               
                 </div>
@@ -2882,8 +2883,8 @@
                   </div>
               
                   <div class="price-box">
-                    <p class="price">$58.00</p>
-                    <del>$64.00</del>
+                    <p class="price">$66.00</p>
+                    <del>$70.00</del>
                   </div>
               
                 </div>
@@ -2933,8 +2934,8 @@
                   </div>
               
                   <div class="price-box">
-                    <p class="price">$50.00</p>
-                    <del>$65.00</del>
+                    <p class="price">$64.00</p>
+                    <del>$72.00</del>
                   </div>
               
                 </div>
@@ -3325,25 +3326,16 @@
           <a href="#" class="footer-category-link">Praia</a>
           <a href="#" class="footer-category-link">Masculino</a>
           <a href="#" class="footer-category-link">Feminino</a>
-          <a href="#" class="footer-category-link">Branded</a>
-          <a href="#" class="footer-category-link">Firstcopy</a>
-          <a href="#" class="footer-category-link">Long shoes</a>
         </div>
 
         <div class="footer-category-box">
-          <h3 class="category-box-title">jewellery :</h3>
+          <h3 class="category-box-title">Acessórios :</h3>
         
-          <a href="#" class="footer-category-link">Necklace</a>
-          <a href="#" class="footer-category-link">Earrings</a>
-          <a href="#" class="footer-category-link">Couple rings</a>
-          <a href="#" class="footer-category-link">Pendants</a>
-          <a href="#" class="footer-category-link">Crystal</a>
-          <a href="#" class="footer-category-link">Bangles</a>
-          <a href="#" class="footer-category-link">bracelets</a>
-          <a href="#" class="footer-category-link">nosepin</a>
-          <a href="#" class="footer-category-link">chain</a>
-          <a href="#" class="footer-category-link">Earrings</a>
-          <a href="#" class="footer-category-link">Couple rings</a>
+          <a href="#" class="footer-category-link">cadarço</a>
+          <a href="#" class="footer-category-link">meia</a>
+          <a href="#" class="footer-category-link">palmilha</a>
+          <a href="#" class="footer-category-link">calçadeiras</a>
+          <a href="#" class="footer-category-link">calcanheira</a>
         </div>
 
         <div class="footer-category-box">
@@ -3396,23 +3388,23 @@
           </li>
 
           <li class="footer-nav-item">
-            <a href="#" class="footer-nav-link">Fashion</a>
+            <a href="#" class="footer-nav-link">Masculino</a>
           </li>
 
           <li class="footer-nav-item">
-            <a href="#" class="footer-nav-link">Electronic</a>
+            <a href="#" class="footer-nav-link">Feminino</a>
           </li>
 
           <li class="footer-nav-item">
-            <a href="#" class="footer-nav-link">Cosmetic</a>
+            <a href="#" class="footer-nav-link">Marcas</a>
           </li>
 
           <li class="footer-nav-item">
-            <a href="#" class="footer-nav-link">Health</a>
+            <a href="#" class="footer-nav-link">Acessórios</a>
           </li>
 
           <li class="footer-nav-item">
-            <a href="#" class="footer-nav-link">Watches</a>
+            <a href="#" class="footer-nav-link">Casual</a>
           </li>
 
         </ul>
@@ -3424,23 +3416,23 @@
           </li>
         
           <li class="footer-nav-item">
-            <a href="#" class="footer-nav-link">Prices drop</a>
+            <a href="#" class="footer-nav-link">Preços baixos</a>
           </li>
         
           <li class="footer-nav-item">
-            <a href="#" class="footer-nav-link">New products</a>
+            <a href="#" class="footer-nav-link">Novos produtos</a>
           </li>
         
           <li class="footer-nav-item">
-            <a href="#" class="footer-nav-link">Best sales</a>
+            <a href="#" class="footer-nav-link">Melhores vendas</a>
           </li>
         
           <li class="footer-nav-item">
-            <a href="#" class="footer-nav-link">Contact us</a>
+            <a href="#" class="footer-nav-link">Nos contate</a>
           </li>
         
           <li class="footer-nav-item">
-            <a href="#" class="footer-nav-link">Sitemap</a>
+            <a href="#" class="footer-nav-link">Mapa do site</a>
           </li>
         
         </ul>
@@ -3452,23 +3444,23 @@
           </li>
         
           <li class="footer-nav-item">
-            <a href="#" class="footer-nav-link">Delivery</a>
+            <a href="#" class="footer-nav-link">Entrega</a>
           </li>
         
           <li class="footer-nav-item">
-            <a href="#" class="footer-nav-link">Legal Notice</a>
+            <a href="#" class="footer-nav-link">Notícias legais</a>
           </li>
         
           <li class="footer-nav-item">
-            <a href="#" class="footer-nav-link">Terms and conditions</a>
+            <a href="#" class="footer-nav-link">Termos e condições</a>
           </li>
         
           <li class="footer-nav-item">
-            <a href="#" class="footer-nav-link">About us</a>
+            <a href="#" class="footer-nav-link">Sobre nós</a>
           </li>
         
           <li class="footer-nav-item">
-            <a href="#" class="footer-nav-link">Secure payment</a>
+            <a href="#" class="footer-nav-link">Pagamento seguro</a>
           </li>
         
         </ul>
@@ -3480,23 +3472,23 @@
           </li>
         
           <li class="footer-nav-item">
-            <a href="#" class="footer-nav-link">Prices drop</a>
+            <a href="#" class="footer-nav-link">Preços baixos</a>
           </li>
         
           <li class="footer-nav-item">
-            <a href="#" class="footer-nav-link">New products</a>
+            <a href="#" class="footer-nav-link">Novos produtos</a>
           </li>
         
           <li class="footer-nav-item">
-            <a href="#" class="footer-nav-link">Best sales</a>
+            <a href="#" class="footer-nav-link">Melhores vendas</a>
           </li>
         
           <li class="footer-nav-item">
-            <a href="#" class="footer-nav-link">Contact us</a>
+            <a href="#" class="footer-nav-link">Nos contate</a>
           </li>
         
           <li class="footer-nav-item">
-            <a href="#" class="footer-nav-link">Sitemap</a>
+            <a href="#" class="footer-nav-link">Mapa do site</a>
           </li>
         
         </ul>
@@ -3513,8 +3505,8 @@
             </div>
 
             <address class="content">
-              419 State 414 Rte
-              Beaver Dams, New York(NY), 14812, USA
+              419 Estado 414 Rte
+              Barragens do castor, Nova Iorque(NI), 14812, EUA
             </address>
           </li>
 
@@ -3531,7 +3523,7 @@
               <ion-icon name="mail-outline"></ion-icon>
             </div>
 
-            <a href="mailto:example@gmail.com" class="footer-nav-link">example@gmail.com</a>
+            <a href="mailto:example@gmail.com" class="footer-nav-link">exemplo@gmail.com</a>
           </li>
 
         </ul>
