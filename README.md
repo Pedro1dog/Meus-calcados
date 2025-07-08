@@ -1554,21 +1554,21 @@
 
                   <div class="showcase">
 
-                    <a href="#" class="showcase-img-box">
+                    <a href="https://www.iriacalcados.com.br/sandalia-havaianas-brasil-logo-fc-azul-naval?srsltid=AfmBOooM-XBMH-DC-O772Mk2OBp1rHhPalJMGlopX1fX_6g3wKneuLn8" class="showcase-img-box">
                       <img src="./assets/images/products/Chinelo Havaianas Brasil Logo - Azul.jpg" alt="relaxed short full sleeve t-shirt" width="70" class="showcase-img">
                     </a>
 
                     <div class="showcase-content">
 
-                      <a href="#">
+                      <a href="https://www.iriacalcados.com.br/sandalia-havaianas-brasil-logo-fc-azul-naval?srsltid=AfmBOooM-XBMH-DC-O772Mk2OBp1rHhPalJMGlopX1fX_6g3wKneuLn8">
                         <h4 class="showcase-title">Chinelo Havaianas Brasil Logo - Azul</h4>
                       </a>
 
                       <a href="#" class="showcase-category">chinelos</a>
 
                       <div class="price-box">
-                        <p class="price">$45.00</p>
-                        <del>$42.00</del>
+                        <p class="price">$77.90</p>
+                        <del>$87.90</del>
                       </div>
 
                     </div>
@@ -1577,21 +1577,21 @@
 
                   <div class="showcase">
                   
-                    <a href="#" class="showcase-img-box">
+                    <a href="https://www.bayardesportes.com.br/chinelo-slide-nike-victori-one-masculino-marinho/p?srsltid=AfmBOoqinn2n3mIZWZba4Xi5lowH72jLPqYY554BEhZM-P_pzeRYivKX" class="showcase-img-box">
                       <img src="./assets/images/products/NIKE VICTORI ONE MEN'S SLIDES.jpg" alt="girls pink embro design top" class="showcase-img" width="70">
                     </a>
                   
                     <div class="showcase-content">
                   
-                      <a href="#">
+                      <a href="https://www.bayardesportes.com.br/chinelo-slide-nike-victori-one-masculino-marinho/p?srsltid=AfmBOoqinn2n3mIZWZba4Xi5lowH72jLPqYY554BEhZM-P_pzeRYivKX">
                         <h4 class="showcase-title">NIKE VICTORI ONE MEN'S SLIDES</h4>
                       </a>
 
                       <a href="#" class="showcase-category">chinelos</a>
 
                       <div class="price-box">
-                        <p class="price">$42.00</p>
-                        <del>$39.00</del>
+                        <p class="price">$189.90</p>
+                        <del>$249.99</del>
                       </div>
                   
                     </div>
@@ -1600,7 +1600,7 @@
 
                   <div class="showcase">
                 
-                    <a href="#" class="showcase-img-box">
+                    <a href="https://www.magazineluiza.com.br/sapatilha-feminina-moleca-5027-1407-preto/p/gf69fbg25j/md/spth/" class="showcase-img-box">
                       <img src="./assets/images/products/Sapatilha Moleca 5027.1407 - Preto - 36.jpg" alt="black floral wrap midi skirt" class="showcase-img"
                         width="70">
 
@@ -1608,15 +1608,15 @@
                   
                     <div class="showcase-content">
                   
-                      <a href="#">
+                      <a href="https://www.magazineluiza.com.br/sapatilha-feminina-moleca-5027-1407-preto/p/gf69fbg25j/md/spth/">
                         <h4 class="showcase-title">Sapatilha Moleca 5027.1407 - Preto - 36</h4>
                       </a>
                   
                       <a href="#" class="showcase-category">sapatilhas</a>
                   
                       <div class="price-box">
-                        <p class="price">$65.00</p>
-                        <del>$72.00</del>
+                        <p class="price">$80.49</p>
+                        <del>$90.49</del>
                       </div>
                   
                     </div>
@@ -1625,22 +1625,22 @@
 
                   <div class="showcase">
                   
-                    <a href="#" class="showcase-img-box">
+                    <a href="https://www.lojasrenner.com.br/p/chinelo-masc-dedo-rider-feel-urban-12318-au459/-/A-7010704602420-br.lr?srsltid=AfmBOooyo0JB5IxT8bO00u8LUzDGsF_F2p3A-CL44XBxwDuaxPQq_Zar&sku=7510709492437" class="showcase-img-box">
                       <img src="./assets/images/products/Chinelo Masc Dedo Rider Feel Urban 12318-Au459 Azul.jpg" alt="pure garment dyed cotton shirt" class="showcase-img"
                         width="70">
                     </a>
                   
                     <div class="showcase-content">
                   
-                      <a href="#">
+                      <a href="https://www.lojasrenner.com.br/p/chinelo-masc-dedo-rider-feel-urban-12318-au459/-/A-7010704602420-br.lr?srsltid=AfmBOooyo0JB5IxT8bO00u8LUzDGsF_F2p3A-CL44XBxwDuaxPQq_Zar&sku=7510709492437">
                         <h4 class="showcase-title">Chinelo Masc Dedo Rider Feel Urban 12318-Au459 Azul</h4>
                       </a>
                   
                       <a href="#" class="showcase-category">chinelos</a>
                   
                       <div class="price-box">
-                        <p class="price">$39.90</p>
-                        <del>$31.89</del>
+                        <p class="price">$41.88</p>
+                        <del>$51.88</del>
                       </div>
                   
                     </div>
@@ -1653,22 +1653,22 @@
                 
                   <div class="showcase">
                 
-                    <a href="#" class="showcase-img-box">
+                    <a href="https://www.netshoes.com.br/p/tenis-nike-renew-run-3-feminino-vermelho-JD8-1627-016" class="showcase-img-box">
                       <img src="./assets/images/products/Tênis Nike Renew Run 3 Feminino - Vermelho.jpg" alt="men yarn fleece full-zip jacket" class="showcase-img"
                         width="70">
                     </a>
                 
                     <div class="showcase-content">
                 
-                      <a href="#">
+                      <a href="https://www.netshoes.com.br/p/tenis-nike-renew-run-3-feminino-vermelho-JD8-1627-016">
                         <h4 class="showcase-title">Tênis Nike Renew Run 3 Feminino - Vermelho</h4>
                       </a>
                 
                       <a href="#" class="showcase-category">tênis</a>
                 
                       <div class="price-box">
-                        <p class="price">$51.00</p>
-                        <del>$61.00</del>
+                        <p class="price">$4.17</p>
+                        <del>$5.17</del>
                       </div>
                 
                     </div>
@@ -1677,22 +1677,22 @@
                 
                   <div class="showcase">
                 
-                    <a href="#" class="showcase-img-box">
+                    <a href="https://viamiss.com.br/sandalia-rasteira-strass-dedo-no-marfim-rr1014-163?srsltid=AfmBOoqoNtrH-WFIwdE--YvIGeV7Vo1qWZIGZUO628LoOAS-4E8t2Qpp" class="showcase-img-box">
                       <img src="./assets/images/products/Sandália Rasteira Sunflower Marfim.jpg" alt="mens winter leathers jackets" class="showcase-img"
                         width="70">
                     </a>
                 
                     <div class="showcase-content">
                 
-                      <a href="#">
+                      <a href="https://viamiss.com.br/sandalia-rasteira-strass-dedo-no-marfim-rr1014-163?srsltid=AfmBOoqoNtrH-WFIwdE--YvIGeV7Vo1qWZIGZUO628LoOAS-4E8t2Qpp">
                         <h4 class="showcase-title">Sandália Rasteira Sunflower Marfim Via miss</h4>
                       </a>
                 
                       <a href="#" class="showcase-category">sandálias</a>
                 
                       <div class="price-box">
-                        <p class="price">$32.00</p>
-                        <del>$27.00</del>
+                        <p class="price">$129.90</p>
+                        <del>$139.90</del>
                       </div>
                 
                     </div>
@@ -1701,22 +1701,22 @@
                 
                   <div class="showcase">
                 
-                    <a href="#" class="showcase-img-box">
+                    <a href="https://www.layneshoes.com.br/categoria-feminino-saltos/sandalia-vizzano-salto-geometrico-tira-com-fivela-preto?srsltid=AfmBOorkMwMN-5zw_MauraGsgktj8ahnmWzcCvJNzNU3Q9IqWprz8Sep&variant_id=87160" class="showcase-img-box">
                       <img src="./assets/images/products/Sandália Feminina Vizzano Salto Geométrico Preto - 38.jpg" alt="mens winter leathers jackets" class="showcase-img"
                         width="70">
                     </a>
                 
                     <div class="showcase-content">
                 
-                      <a href="#">
+                      <a href="https://www.layneshoes.com.br/categoria-feminino-saltos/sandalia-vizzano-salto-geometrico-tira-com-fivela-preto?srsltid=AfmBOorkMwMN-5zw_MauraGsgktj8ahnmWzcCvJNzNU3Q9IqWprz8Sep&variant_id=87160">
                         <h4 class="showcase-title">Sandália Feminina Vizzano Salto Geométrico Preto - 38</h4>
                       </a>
                 
                       <a href="#" class="showcase-category">sandálias</a>
                 
                       <div class="price-box">
-                        <p class="price">$45.00</p>
-                        <del>$60.00</del>
+                        <p class="price">$149.99</p>
+                        <del>$159.99</del>
                       </div>
                 
                     </div>
@@ -1725,22 +1725,22 @@
                 
                   <div class="showcase">
                 
-                    <a href="#" class="showcase-img-box">
-                      <img src="./assets/images/products/Sapato Social Woche Fivela Texturizado Verniz Preto.jpg" alt="better basics french terry sweatshorts" class="showcase-img"
+                    <a href="https://www.stz.com.br/sapato-social-woche-detalhe-fivela-preto-5192449-p2782551?srsltid=AfmBOor2a4LpD8Q9IXU3sINY5tHTRDzuphXXozPzUY8rzy04VcZzaly0" class="showcase-img-box">
+                      <img src="./assets/images/products/Sapato Social Woche Detalhe Fivela Preto.jpg" alt="better basics french terry sweatshorts" class="showcase-img"
                         width="70">
                     </a>
                 
                     <div class="showcase-content">
                 
-                      <a href="#">
-                        <h4 class="showcase-title">Sapato Social Woche Fivela Texturizado Verniz Preto</h4>
+                      <a href="https://www.stz.com.br/sapato-social-woche-detalhe-fivela-preto-5192449-p2782551?srsltid=AfmBOor2a4LpD8Q9IXU3sINY5tHTRDzuphXXozPzUY8rzy04VcZzaly0">
+                        <h4 class="showcase-title">Sapato Social Woche Detalhe Fivela Preto</h4>
                       </a>
                 
                       <a href="#" class="showcase-category">sapato social</a>
                 
                       <div class="price-box">
-                        <p class="price">$40.00</p>
-                        <del>$30.00</del>
+                        <p class="price">$103.99</p>
+                        <del>$129.99</del>
                       </div>
                 
                     </div>
@@ -2402,7 +2402,7 @@
 
                   <a href="#" class="showcase-category">sandálias</a>
 
-                  <a href="#">
+                  <a href="https://www.layneshoes.com.br/categoria-feminino-saltos/sandalia-vizzano-salto-geometrico-tira-com-fivela-preto?srsltid=AfmBOorkMwMN-5zw_MauraGsgktj8ahnmWzcCvJNzNU3Q9IqWprz8Sep&variant_id=87160">
                     <h3 class="showcase-title">Sandália Feminina Vizzano Salto Geométrico Preto - 38</h3>
                   </a>
 
@@ -2415,8 +2415,8 @@
                   </div>
 
                   <div class="price-box">
-                    <p class="price">$45.00</p>
-                    <del>$60.00</del>
+                    <p class="price">$149.99</p>
+                    <del>$159.99</del>
                   </div>
 
                 </div>
@@ -2507,7 +2507,7 @@
                   <a href="#" class="showcase-category">tênis</a>
               
                   <h3>
-                    <a href="#" class="showcase-title">Tênis Nike Renew Run 3 Feminino - Vermelho</a>
+                    <a href="https://www.netshoes.com.br/p/tenis-nike-renew-run-3-feminino-vermelho-JD8-1627-016" class="showcase-title">Tênis Nike Renew Run 3 Feminino - Vermelho</a>
                   </h3>
               
                   <div class="showcase-rating">
@@ -2519,8 +2519,8 @@
                   </div>
               
                   <div class="price-box">
-                    <p class="price">$51.00</p>
-                    <del>$61.00</del>
+                    <p class="price">$4.17</p>
+                    <del>$5.17</del>
                   </div>
               
                 </div>
@@ -2560,7 +2560,7 @@
                   <a href="#" class="showcase-category">sapatilhas</a>
               
                   <h3>
-                    <a href="#" class="showcase-title">Sapatilha Moleca 5027.1407 - Preto - 36</a>
+                    <a href="https://www.magazineluiza.com.br/sapatilha-feminina-moleca-5027-1407-preto/p/gf69fbg25j/md/spth/" class="showcase-title">Sapatilha Moleca 5027.1407 - Preto - 36</a>
                   </h3>
               
                   <div class="showcase-rating">
@@ -2572,8 +2572,8 @@
                   </div>
               
                   <div class="price-box">
-                    <p class="price">$65.00</p>
-                    <del>$72.00</del>
+                    <p class="price">$80.49</p>
+                    <del>$90.49</del>
                   </div>
               
                 </div>
@@ -2818,7 +2818,7 @@
                   <a href="#" class="showcase-category">sandálias</a>
               
                   <h3>
-                    <a href="#" class="showcase-title">Sandália Rasteira Sunflower Marfim Via miss</a>
+                    <a href="https://viamiss.com.br/sandalia-rasteira-strass-dedo-no-marfim-rr1014-163?srsltid=AfmBOoqoNtrH-WFIwdE--YvIGeV7Vo1qWZIGZUO628LoOAS-4E8t2Qpp" class="showcase-title">Sandália Rasteira Sunflower Marfim Via miss</a>
                   </h3>
               
                   <div class="showcase-rating">
@@ -2830,8 +2830,8 @@
                   </div>
               
                   <div class="price-box">
-                    <p class="price">$32.00</p>
-                    <del>$27.00</del>
+                    <p class="price">$129.90</p>
+                    <del>$139.90</del>
                   </div>
               
                 </div>
