@@ -1653,22 +1653,22 @@
                 
                   <div class="showcase">
                 
-                    <a href="https://www.netshoes.com.br/p/tenis-nike-renew-run-3-feminino-vermelho-JD8-1627-016" class="showcase-img-box">
+                    <a href="https://www.spazziojeans.com.br/tenis-nike-renew-run-3-feminino-rosa-e-vermelho?&sort=p.date_added&order=DESC&page=62" class="showcase-img-box">
                       <img src="./assets/images/products/Tênis Nike Renew Run 3 Feminino - Vermelho.jpg" alt="men yarn fleece full-zip jacket" class="showcase-img"
                         width="70">
                     </a>
                 
                     <div class="showcase-content">
                 
-                      <a href="https://www.netshoes.com.br/p/tenis-nike-renew-run-3-feminino-vermelho-JD8-1627-016">
+                      <a href="https://www.spazziojeans.com.br/tenis-nike-renew-run-3-feminino-rosa-e-vermelho?&sort=p.date_added&order=DESC&page=62">
                         <h4 class="showcase-title">Tênis Nike Renew Run 3 Feminino - Vermelho</h4>
                       </a>
                 
                       <a href="#" class="showcase-category">tênis</a>
                 
                       <div class="price-box">
-                        <p class="price">$4.17</p>
-                        <del>$5.17</del>
+                        <p class="price">$449.94</p>
+                        <del>$749.90</del>
                       </div>
                 
                     </div>
@@ -1763,22 +1763,22 @@
             
                   <div class="showcase">
             
-                    <a href="#" class="showcase-img-box">
+                    <a href="https://loja.cruzeiro.com.br/p/chuteira-campo-adidas-predator-accuracy-p4-sock-unissex-azul-FB8-8723-028?srsltid=AfmBOoouj9hDZEuAfbMAYgTgPs0RhE0j0mGacX3lQ0sWsSb7KXWCIWPk" class="showcase-img-box">
                       <img src="./assets/images/products/Chuteira Campo Adidas Predator Accuracy P4 Sock Unissex.jpg" alt="running & trekking shoes - white" class="showcase-img"
                         width="70">
                     </a>
             
                     <div class="showcase-content">
             
-                      <a href="#">
+                      <a href="https://loja.cruzeiro.com.br/p/chuteira-campo-adidas-predator-accuracy-p4-sock-unissex-azul-FB8-8723-028?srsltid=AfmBOoouj9hDZEuAfbMAYgTgPs0RhE0j0mGacX3lQ0sWsSb7KXWCIWPk">
                         <h4 class="showcase-title">Chuteira Campo Adidas Predator Accuracy P4 Sock Unissex</h4>
                       </a>
 
                       <a href="#" class="showcase-category">chuteiras</a>
 
                       <div class="price-box">
-                        <p class="price">$59.00</p>
-                        <del>$55.00</del>
+                        <p class="price">$209.99</p>
+                        <del>$449.99</del>
                       </div>
             
                     </div>
@@ -1787,22 +1787,22 @@
             
                   <div class="showcase">
             
-                    <a href="#" class="showcase-img-box">
+                    <a href="https://www.b2online.com.br/chuteira-futsal-adidas-rabisco-junior-laranja---preto?srsltid=AfmBOoo7ih_lQxJVfKVaojOgoiG-9C2gXN_tyI5Tcre0n6Zst16bYiPV" class="showcase-img-box">
                       <img src="./assets/images/products/Chuteira Futsal Adidas Rabisco Junior LaranjaPreto.jpg" alt="trekking & running shoes - black" class="showcase-img"
                         width="70">
                     </a>
             
                     <div class="showcase-content">
             
-                      <a href="#">
+                      <a href="https://www.b2online.com.br/chuteira-futsal-adidas-rabisco-junior-laranja---preto?srsltid=AfmBOoo7ih_lQxJVfKVaojOgoiG-9C2gXN_tyI5Tcre0n6Zst16bYiPV">
                         <h4 class="showcase-title">Chuteira Futsal Adidas Rabisco Junior LaranjaPreto</h4>
                       </a>
 
                       <a href="#" class="showcase-category">chuteiras</a>
 
                       <div class="price-box">
-                        <p class="price">$66.00</p>
-                        <del>$70.00</del>
+                        <p class="price">$189.90</p>
+                        <del>$199.90</del>
                       </div>
             
                     </div>
@@ -1811,22 +1811,22 @@
             
                   <div class="showcase">
             
-                    <a href="#" class="showcase-img-box">
-                      <img src="./assets/images/products/Chinelo slide store olympikus next.jpg" alt="womens party wear shoes" class="showcase-img"
+                    <a href="https://www.esportelegal.com.br/produto/chinelo-olympikus-melbourne-unissex-120748" class="showcase-img-box">
+                      <img src="./assets/images/products/Chinelo Olympikus Melbourne Unissex.jpg" alt="womens party wear shoes" class="showcase-img"
                         width="70">
                     </a>
             
                     <div class="showcase-content">
             
-                      <a href="#">
-                        <h4 class="showcase-title">Chinelo slide store olympikus next</h4>
+                      <a href="https://www.esportelegal.com.br/produto/chinelo-olympikus-melbourne-unissex-120748">
+                        <h4 class="showcase-title">Chinelo Olympikus Melbourne Unissex</h4>
                       </a>
             
                       <a href="#" class="showcase-category">chinelos</a>
             
                       <div class="price-box">
-                        <p class="price">$60.00</p>
-                        <del>$52.00</del>
+                        <p class="price">$129.90</p>
+                        <del>$139.90</del>
                       </div>
             
                     </div>
@@ -1835,22 +1835,22 @@
             
                   <div class="showcase">
             
-                    <a href="#" class="showcase-img-box">
+                    <a href="https://bergallycom.mercadoshops.com.br/MLB-1608597400-bota-botina-seguranca-do-trabalho-100-couro-c-ca-frentista-_JM" class="showcase-img-box">
                       <img src="./assets/images/products/Bota Botina Segurança Do Trabalho Couro C Ca Frentista.jpg" alt="sports claw women's shoes" class="showcase-img"
                         width="70">
                     </a>
             
                     <div class="showcase-content">
             
-                      <a href="#">
+                      <a href="https://bergallycom.mercadoshops.com.br/MLB-1608597400-bota-botina-seguranca-do-trabalho-100-couro-c-ca-frentista-_JM">
                         <h4 class="showcase-title">Bota Botina Segurança Do Trabalho Couro C Ca Frentista</h4>
                       </a>
             
                       <a href="#" class="showcase-category">EPI-s</a>
             
                       <div class="price-box">
-                        <p class="price">$35.00</p>
-                        <del>$55.00</del>
+                        <p class="price">$78.99</p>
+                        <del>$88.99</del>
                       </div>
             
                     </div>
@@ -1863,22 +1863,22 @@
             
                   <div class="showcase">
             
-                    <a href="#" class="showcase-img-box">
+                    <a href="https://www.karinacalcados.com.br/sandalia-masculina-dakar-ii-marrom-cartago-12280-ax460" class="showcase-img-box">
                       <img src="./assets/images/products/Sandalia Cartago 12280 Dakar II, Marrom, 4344.jpg" alt="air tekking shoes - white" class="showcase-img"
                         width="70">
                     </a>
             
                     <div class="showcase-content">
             
-                      <a href="#">
-                        <h4 class="showcase-title">Sandália Cartago 12280 Dakar II, Marrom, 4344</h4>
+                      <a href="https://www.karinacalcados.com.br/sandalia-masculina-dakar-ii-marrom-cartago-12280-ax460">
+                        <h4 class="showcase-title">Sandália Cartago 12280 Dakar II, Marrom, 43/44</h4>
                       </a>
             
                       <a href="#" class="showcase-category">sandálias</a>
             
                       <div class="price-box">
-                        <p class="price">$52.00</p>
-                        <del>$54.99</del>
+                        <p class="price">$79.99</p>
+                        <del>$89.99</del>
                       </div>
             
                     </div>
@@ -1887,21 +1887,21 @@
             
                   <div class="showcase">
             
-                    <a href="#" class="showcase-img-box">
+                    <a href="https://www.lojawolfpack.com.br/tenis-vans-old-skool-color-theory-golden-brown" class="showcase-img-box">
                       <img src="./assets/images/products/Tênis Vans Old Skool Color Theory Golden Brown.jpg" alt="Boot With Suede Detail" class="showcase-img" width="70">
                     </a>
             
                     <div class="showcase-content">
             
-                      <a href="#">
+                      <a href="https://www.lojawolfpack.com.br/tenis-vans-old-skool-color-theory-golden-brown">
                         <h4 class="showcase-title">Tênis Vans Old Skool Color Theory Golden Brown</h4>
                       </a>
             
                       <a href="#" class="showcase-category">tênis</a>
             
                       <div class="price-box">
-                        <p class="price">$60.00</p>
-                        <del>$70.00</del>
+                        <p class="price">$399.99</p>
+                        <del>$409.99</del>
                       </div>
             
                     </div>
@@ -1910,22 +1910,22 @@
             
                   <div class="showcase">
             
-                    <a href="#" class="showcase-img-box">
+                    <a href="https://www.sandalo.com.br/sapato-social-sandalo-taylor-cadarco-preto-sd004-preto?srsltid=AfmBOoop7nWMkCTDohg4_cNW21l0MsU0fMZrPWX7rvxPOKKlV03TxCHT" class="showcase-img-box">
                       <img src="./assets/images/products/Sapato Social Sândalo Taylor Cadarço Preto.jpg" alt="men's leather formal wear shoes" class="showcase-img"
                         width="70">
                     </a>
             
                     <div class="showcase-content">
             
-                      <a href="#">
+                      <a href="https://www.sandalo.com.br/sapato-social-sandalo-taylor-cadarco-preto-sd004-preto?srsltid=AfmBOoop7nWMkCTDohg4_cNW21l0MsU0fMZrPWX7rvxPOKKlV03TxCHT">
                         <h4 class="showcase-title">Sapato Social Sândalo Taylor Cadarço Preto</h4>
                       </a>
             
                       <a href="#" class="showcase-category">sapato social</a>
             
                       <div class="price-box">
-                        <p class="price">$56.00</p>
-                        <del>$70.00</del>
+                        <p class="price">$399.90</p>
+                        <del>$439.90</del>
                       </div>
             
                     </div>
@@ -1934,21 +1934,21 @@
             
                   <div class="showcase">
             
-                    <a href="#" class="showcase-img-box">
-                      <img src="./assets/images/products/Sapato Social Masculino 803 Azul Estilo Italiano Bico Quadrado Casual Casamento.jpg" alt="casual men's brown shoes" class="showcase-img" width="70">
+                    <a href="https://shopee.com.br/product/314066583/5656248894?gads_t_sig=VTJGc2RHVmtYMTlxTFVSVVRrdENkWVp3RFo3Mkw5czd4Z0hzdEF1WVFia2NwMFFaaDN5UG81cTZ2NGtsSi9GcGRMc1A2UEczeTRoaW5LYWZGUi9UUk43akZuWFpySGlUV0p3OWkvM3dka0M1UE03Q0xDbjJOL0JhUzV3TjhROGM" class="showcase-img-box">
+                      <img src="./assets/images/products/Sapato Social Masculino 803 Cores Diversas Estilo Italiano Bico Quadrado Casual Casamento.jpg" alt="casual men's brown shoes" class="showcase-img" width="70">
                     </a>
             
                     <div class="showcase-content">
             
-                      <a href="#">
-                        <h4 class="showcase-title">Sapato Social Masculino Schiareli 803 Azul Estilo Italiano Bico Quadrado Casual Casamento</h4>
+                      <a href="https://shopee.com.br/product/314066583/5656248894?gads_t_sig=VTJGc2RHVmtYMTlxTFVSVVRrdENkWVp3RFo3Mkw5czd4Z0hzdEF1WVFia2NwMFFaaDN5UG81cTZ2NGtsSi9GcGRMc1A2UEczeTRoaW5LYWZGUi9UUk43akZuWFpySGlUV0p3OWkvM3dka0M1UE03Q0xDbjJOL0JhUzV3TjhROGM">
+                        <h4 class="showcase-title">Sapato Social Masculino 803 Cores Diversas Estilo Italiano Bico Quadrado Casual Casamento</h4>
                       </a>
             
                       <a href="#" class="showcase-category">sapato social</a>
             
                       <div class="price-box">
-                        <p class="price">$80.00</p>
-                        <del>$85.00</del>
+                        <p class="price">$79.90</p>
+                        <del>$109.90</del>
                       </div>
             
                     </div>
@@ -2507,7 +2507,7 @@
                   <a href="#" class="showcase-category">tênis</a>
               
                   <h3>
-                    <a href="https://www.netshoes.com.br/p/tenis-nike-renew-run-3-feminino-vermelho-JD8-1627-016" class="showcase-title">Tênis Nike Renew Run 3 Feminino - Vermelho</a>
+                    <a href="https://www.spazziojeans.com.br/tenis-nike-renew-run-3-feminino-rosa-e-vermelho?&sort=p.date_added&order=DESC&page=62" class="showcase-title">Tênis Nike Renew Run 3 Feminino - Vermelho</a>
                   </h3>
               
                   <div class="showcase-rating">
@@ -2519,8 +2519,8 @@
                   </div>
               
                   <div class="price-box">
-                    <p class="price">$4.17</p>
-                    <del>$5.17</del>
+                    <p class="price">$449.94</p>
+                    <del>$749.90</del>
                   </div>
               
                 </div>
@@ -2611,7 +2611,7 @@
                   <a href="#" class="showcase-category">sapato social</a>
               
                   <h3>
-                    <a href="#" class="showcase-title">Sapato Social Masculino Schiareli 803 Cores Diversas Estilo Italiano Bico Quadrado Casual Casamento</a>
+                    <a href="https://shopee.com.br/product/314066583/5656248894?gads_t_sig=VTJGc2RHVmtYMTlxTFVSVVRrdENkWVp3RFo3Mkw5czd4Z0hzdEF1WVFia2NwMFFaaDN5UG81cTZ2NGtsSi9GcGRMc1A2UEczeTRoaW5LYWZGUi9UUk43akZuWFpySGlUV0p3OWkvM3dka0M1UE03Q0xDbjJOL0JhUzV3TjhROGM" class="showcase-title">Sapato Social Masculino Schiareli 803 Cores Diversas Estilo Italiano Bico Quadrado Casual Casamento</a>
                   </h3>
               
                   <div class="showcase-rating">
@@ -2623,8 +2623,8 @@
                   </div>
               
                   <div class="price-box">
-                    <p class="price">$80.00</p>
-                    <del>$85.00</del>
+                    <p class="price">$79.90</p>
+                    <del>$109.90</del>
                   </div>
               
                 </div>
@@ -2871,7 +2871,7 @@
                   <a href="#" class="showcase-category">chuteiras</a>
               
                   <h3>
-                    <a href="#" class="showcase-title">Chuteira Futsal Adidas Rabisco Junior Laranja e Preto</a>
+                    <a href="https://www.b2online.com.br/chuteira-futsal-adidas-rabisco-junior-laranja---preto?srsltid=AfmBOoo7ih_lQxJVfKVaojOgoiG-9C2gXN_tyI5Tcre0n6Zst16bYiPV" class="showcase-title">Chuteira Futsal Adidas Rabisco Junior Laranja e Preto</a>
                   </h3>
               
                   <div class="showcase-rating">
@@ -2883,8 +2883,8 @@
                   </div>
               
                   <div class="price-box">
-                    <p class="price">$66.00</p>
-                    <del>$70.00</del>
+                    <p class="price">$189.90</p>
+                    <del>$199.90</del>
                   </div>
               
                 </div>
