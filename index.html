@@ -1971,22 +1971,22 @@
             
                   <div class="showcase">
             
-                    <a href="#" class="showcase-img-box">
+                    <a href="https://www.lojasiame.com.br/tenis-bota-jordan-branca-com-vermelha-botinha-cano-alto-feminina-e-masculina/" class="showcase-img-box">
                       <img src="./assets/images/products/Tenis Bota Jordan Branca com Vermelha Botinha Cano Alto Feminina e Masculina.jpg" alt="pocket watch leather pouch" class="showcase-img"
                         width="70">
                     </a>
             
                     <div class="showcase-content">
             
-                      <a href="#">
+                      <a href="https://www.lojasiame.com.br/tenis-bota-jordan-branca-com-vermelha-botinha-cano-alto-feminina-e-masculina/">
                         <h4 class="showcase-title">Tenis Bota Jordan Branca com Vermelha Botinha Cano Alto Feminina e Masculina</h4>
                       </a>
             
                       <a href="#" class="showcase-category">tênis</a>
             
                       <div class="price-box">
-                        <p class="price">$64.00</p>
-                        <del>$72.00</del>
+                        <p class="price">$199.90</p>
+                        <del>$209.90</del>
                       </div>
             
                     </div>
@@ -1995,22 +1995,22 @@
             
                   <div class="showcase">
             
-                    <a href="#" class="showcase-img-box">
+                    <a href="https://www.polodoepi.com.br/sapato-de-seguranca-fortline-se1002-sapato-fortline-bidensidade/p" class="showcase-img-box">
                       <img src="./assets/images/products/Sapato de Segurança Fortline SER2002 - Sapato Fortline Bidensidade.jpg" alt="silver deer heart necklace" class="showcase-img"
                         width="70">
                     </a>
             
                     <div class="showcase-content">
             
-                      <a href="#">
+                      <a href="https://www.polodoepi.com.br/sapato-de-seguranca-fortline-se1002-sapato-fortline-bidensidade/p">
                         <h4 class="showcase-title">Sapato de Segurança Fortline SER2002 - Sapato Fortline Bidensidade</h4>
                       </a>
             
-                      <a href="#" class="showcase-category">EPI-s</a>
+                      <a href="" class="showcase-category">EPI-s</a>
             
                       <div class="price-box">
-                        <p class="price">$54.00</p>
-                        <del>$40.00</del>
+                        <p class="price">$51.12</p>
+                        <del>$61.12</del>
                       </div>
             
                     </div>
@@ -2019,22 +2019,22 @@
             
                   <div class="showcase">
             
-                    <a href="#" class="showcase-img-box">
+                    <a href="https://www.pequentelondrina.com.br/chinelo-ipanema-maxi-glow-glitter-27000-3340-rosa-escurorosa-glitter?srsltid=AfmBOoqgNagtI2frpdwGwxN1RFzIXge58tOdbc579p8kXse1_N_iIi9d" class="showcase-img-box">
                       <img src="./assets/images/products/Chinelo Ipanema Maxi Glow em Glitter 27000 3340.jpg" alt="titan 100 ml womens perfume" class="showcase-img"
                         width="70">
                     </a>
             
                     <div class="showcase-content">
             
-                      <a href="#">
+                      <a href="https://www.pequentelondrina.com.br/chinelo-ipanema-maxi-glow-glitter-27000-3340-rosa-escurorosa-glitter?srsltid=AfmBOoqgNagtI2frpdwGwxN1RFzIXge58tOdbc579p8kXse1_N_iIi9d">
                         <h4 class="showcase-title">Chinelo Ipanema Maxi Glow em Glitter 27000 3340</h4>
                       </a>
             
                       <a href="#" class="showcase-category">chinelos</a>
             
                       <div class="price-box">
-                        <p class="price">$42.00</p>
-                        <del>$30.00</del>
+                        <p class="price">$49.99</p>
+                        <del>$59.99</del>
                       </div>
             
                     </div>
@@ -2043,22 +2043,22 @@
             
                   <div class="showcase">
             
-                    <a href="#" class="showcase-img-box">
+                    <a href="https://www.lojasrenner.com.br/ashua/p/chinelo-slide-ipanema-disney-stitch-infantil/-/A-7010705229685-br.lr?sku=7510711108501" class="showcase-img-box">
                       <img src="./assets/images/products/Chinelo Slide Ipanema Disney Stitch Infantil.jpg" alt="men's leather reversible belt" class="showcase-img"
                         width="70">
                     </a>
             
                     <div class="showcase-content">
             
-                      <a href="#">
+                      <a href="https://www.lojasrenner.com.br/ashua/p/chinelo-slide-ipanema-disney-stitch-infantil/-/A-7010705229685-br.lr?sku=7510711108501">
                         <h4 class="showcase-title">Chinelo Slide Ipanema Disney Stitch Infantil</h4>
                       </a>
 
                       <a href="#" class="showcase-category">chinelos</a>
 
                       <div class="price-box">
-                        <p class="price">$34.00</p>
-                        <del>$20.00</del>
+                        <p class="price">$49.99</p>
+                        <del>$59.99</del>
                       </div>
             
                     </div>
@@ -2071,22 +2071,22 @@
             
                   <div class="showcase">
             
-                    <a href="#" class="showcase-img-box">
+                    <a href="https://www.kallan.com.br/chinelo-havaianas-logomania-marvel-branco-76010004-007/p?srsltid=AfmBOooiR-sV6UD2cYO96Ee3jaNtKRYQpvZGq-tij9KhO_Hrjy2h-0xl" class="showcase-img-box">
                       <img src="./assets/images/products/Chinelo Havaianas Logomania Marvel Branco.jpg" alt="platinum zircon classic ring" class="showcase-img"
                         width="70">
                     </a>
             
                     <div class="showcase-content">
             
-                      <a href="#">
+                      <a href="https://www.kallan.com.br/chinelo-havaianas-logomania-marvel-branco-76010004-007/p?srsltid=AfmBOooiR-sV6UD2cYO96Ee3jaNtKRYQpvZGq-tij9KhO_Hrjy2h-0xl">
                         <h4 class="showcase-title">Chinelo Havaianas Logomania Marvel Branco</h4>
                       </a>
             
                       <a href="#" class="showcase-category">chinelos</a>
             
                       <div class="price-box">
-                        <p class="price">$49.90</p>
-                        <del>$54.00</del>
+                        <p class="price">$44.99</p>
+                        <del>$54.99</del>
                       </div>
             
                     </div>
@@ -2095,21 +2095,21 @@
             
                   <div class="showcase">
             
-                    <a href="#" class="showcase-img-box">
+                    <a href="https://www.portofree.com.br/masculino/casual/sapato-masculino-oxford-em-couro-confort-preto-cod-41089?srsltid=AfmBOopmmXNPEAl_A-EQlkObEkKX-2YkybTHSPT2cwtW5rINF9OndqKa" class="showcase-img-box">
                       <img src="./assets/images/products/Sapato Masculino Oxford em Couro Confort Preto - Cód 41089.jpg" alt="smart watche vital plus" class="showcase-img" width="70">
                     </a>
             
                     <div class="showcase-content">
             
-                      <a href="#">
+                      <a href="https://www.portofree.com.br/masculino/casual/sapato-masculino-oxford-em-couro-confort-preto-cod-41089?srsltid=AfmBOopmmXNPEAl_A-EQlkObEkKX-2YkybTHSPT2cwtW5rINF9OndqKa">
                         <h4 class="showcase-title">Sapato Masculino Porto free Oxford em Couro Confort Preto - Cód 41089</h4>
                       </a>
             
                       <a href="#" class="showcase-category">oxfords</a>
             
                       <div class="price-box">
-                        <p class="price">$56.00</p>
-                        <del>$58.00</del>
+                        <p class="price">$329.90</p>
+                        <del>$339.90</del>
                       </div>
             
                     </div>
@@ -2118,22 +2118,22 @@
             
                   <div class="showcase">
             
-                    <a href="#" class="showcase-img-box">
+                    <a href="https://www.rockstarloja.com.br/adulto/cano-alto/tenis-converse-all-star-cano-alto-vermelho-chuck-taylor-botinha" class="showcase-img-box">
                       <img src="./assets/images/products/Tênis Converse All Star Cano Alto - Vermelho - Chuck Taylor - Botinha - Nolan Calçados.jpg" alt="shampoo conditioner packs" class="showcase-img"
                         width="70">
                     </a>
             
                     <div class="showcase-content">
             
-                      <a href="#">
+                      <a href="https://www.rockstarloja.com.br/adulto/cano-alto/tenis-converse-all-star-cano-alto-vermelho-chuck-taylor-botinha">
                         <h4 class="showcase-title">Tênis Converse All Star Cano Alto - Vermelho - Chuck Taylor - Botinha - Nolan Calçados</h4>
                       </a>
             
                       <a href="#" class="showcase-category">tênis</a>
             
                       <div class="price-box">
-                        <p class="price">$85.00</p>
-                        <del>$90.00</del>
+                        <p class="price">$125.90</p>
+                        <del>$179.90</del>
                       </div>
             
                     </div>
@@ -2142,22 +2142,22 @@
             
                   <div class="showcase">
             
-                    <a href="#" class="showcase-img-box">
+                    <a href="https://produto.mercadolivre.com.br/MLB-5048729800-sandalia-papete-moleca-flatform-feminina-conforto-_JM" class="showcase-img-box">
                       <img src="./assets/images/products/Sandália Papete Moleca Flatform Feminina.jpg" alt="rose gold peacock earrings" class="showcase-img"
                         width="70">
                     </a>
             
                     <div class="showcase-content">
             
-                      <a href="#">
+                      <a href="https://produto.mercadolivre.com.br/MLB-5048729800-sandalia-papete-moleca-flatform-feminina-conforto-_JM">
                         <h4 class="showcase-title">Sandália Papete Moleca Flatform Feminina</h4>
                       </a>
             
                       <a href="#" class="showcase-category">sandália</a>
             
                       <div class="price-box">
-                        <p class="price">$32.00</p>
-                        <del>$42.00</del>
+                        <p class="price">$124.99</p>
+                        <del>$134.99</del>
                       </div>
             
                     </div>
@@ -2202,7 +2202,7 @@
                       <ion-icon name="star-outline"></ion-icon>
                     </div>
 
-                    <a href="#">
+                    <a href="https://www.rockstarloja.com.br/adulto/cano-alto/tenis-converse-all-star-cano-alto-vermelho-chuck-taylor-botinha">
                       <h3 class="showcase-title">Tênis Converse All Star Cano Alto - Vermelho - Chuck Taylor - Botinha - Nolan Calçados</h3>
                     </a>
 
@@ -2211,9 +2211,9 @@
                     </p>
 
                     <div class="price-box">
-                      <p class="price">$85.00</p>
+                      <p class="price">$125.90</p>
 
-                      <del>$90.00</del>
+                      <del>$179.90</del>
                     </div>
 
                     <button class="add-cart-btn">Adicionar ao carrinho
@@ -2714,7 +2714,7 @@
                   <a href="#" class="showcase-category">oxfords</a>
               
                   <h3>
-                    <a href="#" class="showcase-title">Sapato Masculino Porto free Oxford em Couro Confort Preto - Cód 41089</a>
+                    <a href="https://www.portofree.com.br/masculino/casual/sapato-masculino-oxford-em-couro-confort-preto-cod-41089?srsltid=AfmBOopmmXNPEAl_A-EQlkObEkKX-2YkybTHSPT2cwtW5rINF9OndqKa" class="showcase-title">Sapato Masculino Porto free Oxford em Couro Confort Preto - Cód 41089</a>
                   </h3>
               
                   <div class="showcase-rating">
@@ -2726,8 +2726,8 @@
                   </div>
               
                   <div class="price-box">
-                    <p class="price">$56.00</p>
-                    <del>$58.00</del>
+                    <p class="price">$329.90</p>
+                    <del>$339.90</del>
                   </div>
               
                 </div>
@@ -2922,7 +2922,7 @@
                   <a href="#" class="showcase-category">tênis</a>
               
                   <h3>
-                    <a href="#" class="showcase-title">Tenis Bota Jordan Branca com Vermelha Botinha Cano Alto Feminina e Masculina</a>
+                    <a href="https://www.lojasiame.com.br/tenis-bota-jordan-branca-com-vermelha-botinha-cano-alto-feminina-e-masculina/" class="showcase-title">Tenis Bota Jordan Branca com Vermelha Botinha Cano Alto Feminina e Masculina</a>
                   </h3>
               
                   <div class="showcase-rating">
@@ -2934,8 +2934,8 @@
                   </div>
               
                   <div class="price-box">
-                    <p class="price">$64.00</p>
-                    <del>$72.00</del>
+                    <p class="price">$199.90</p>
+                    <del>$209.90</del>
                   </div>
               
                 </div>
