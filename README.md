@@ -1411,14 +1411,14 @@
 
                 <div class="showcase">
 
-                  <a href="#" class="showcase-img-box">
+                  <a href="https://www.futfanatics.com.br/meia-lupo-sport-walk-cano-curto-3-pares" class="showcase-img-box">
                     <img src="./assets/images/products/Meia Lupo Sport Walk Cano Curto 3 Pares.jpg" alt="baby fabric shoes" width="75" height="75"
                       class="showcase-img">
                   </a>
 
                   <div class="showcase-content">
 
-                    <a href="#">
+                    <a href="https://www.futfanatics.com.br/meia-lupo-sport-walk-cano-curto-3-pares">
                       <h4 class="showcase-title">Meia Lupo Sport Walk Cano Curto 3 Pares</h4>
                     </a>
 
@@ -1431,8 +1431,8 @@
                     </div>
 
                     <div class="price-box">
-                      <del>$4.49</del>
-                      <p class="price">$4.00</p>
+                      <del>$49.90</del>
+                      <p class="price">$29.90</p>
                     </div>
 
                   </div>
@@ -1441,14 +1441,14 @@
 
                 <div class="showcase">
 
-                  <a href="#" class="showcase-img-box">
+                  <a href="https://www.perelax.com.br/palmilha-confort-pe-relax-palmilha-confort?srsltid=AfmBOor-dSkmrpKUrNJbywEBBKQ6PCRe1kk39zAEOPYSDuqLPKbE5AM2" class="showcase-img-box">
                     <img src="./assets/images/products/Palmilha Confort Pé Relax  Pé Relax Sapatos Confortáveis.jpg" alt="men's hoodies t-shirt" class="showcase-img"
                       width="75" height="75">
                   </a>
 
                   <div class="showcase-content">
 
-                    <a href="#">
+                    <a href="https://www.perelax.com.br/palmilha-confort-pe-relax-palmilha-confort?srsltid=AfmBOor-dSkmrpKUrNJbywEBBKQ6PCRe1kk39zAEOPYSDuqLPKbE5AM2">
                       <h4 class="showcase-title">Palmilha Confort Pé Relax</h4>
                     </a>
                     <div class="showcase-rating">
@@ -1460,8 +1460,8 @@
                     </div>
 
                     <div class="price-box">
-                      <del>$12.00</del>
-                      <p class="price">$7.00</p>
+                      <del>$19.90</del>
+                      <p class="price">$9.90</p>
                     </div>
 
                   </div>
@@ -1470,15 +1470,15 @@
 
                 <div class="showcase">
 
-                  <a href="#" class="showcase-img-box">
-                    <img src="./assets/images/products/CADARÇO CHATO ALG SCERA 32285 - 90CM - ROXO - romeucouros.jpg" alt="girls t-shirt" class="showcase-img" width="75"
+                  <a href="https://lojaimpec.com.br/cadarco-atacador-chato-azul-bebe-150030-132?srsltid=AfmBOor0SEbrmzwFfdXJIxzgPaaauFa6RfyUz8IQ-PNQONgS136kfKqc" class="showcase-img-box">
+                    <img src="./assets/images/products/Cadarço Atacador Chato Azul Bebê.jpg" alt="girls t-shirt" class="showcase-img" width="75"
                       height="75">
                   </a>
 
                   <div class="showcase-content">
 
-                    <a href="#">
-                      <h4 class="showcase-title">Cadarço chato alg scera 32285 - 90cm - roxo - romeucouros</h4>
+                    <a href="https://lojaimpec.com.br/cadarco-atacador-chato-azul-bebe-150030-132?srsltid=AfmBOor0SEbrmzwFfdXJIxzgPaaauFa6RfyUz8IQ-PNQONgS136kfKqc">
+                      <h4 class="showcase-title">Cadarço Atacador Chato Azul Bebê</h4>
                     </a>
                     <div class="showcase-rating">
                       <ion-icon name="star"></ion-icon>
@@ -1489,8 +1489,8 @@
                     </div>
 
                     <div class="price-box">
-                      <del>$4.00</del>
-                      <p class="price">$2.00</p>
+                      <del>$22.90</del>
+                      <p class="price">$12.90</p>
                     </div>
 
                   </div>
@@ -1499,15 +1499,15 @@
 
                 <div class="showcase">
 
-                  <a href="#" class="showcase-img-box">
-                    <img src="./assets/images/products/Cadarço Chato Poliester T150 - 120cm - Cinza Escuro - Par.jpg" alt="woolen hat for men" class="showcase-img" width="75"
+                  <a href="https://www.magazineluiza.com.br/cadarco-para-tenis-cinza-claro-chato-poliester-120cm-generalcouros/p/dj46jf03j9/md/cdrc/" class="showcase-img-box">
+                    <img src="./assets/images/products/cadarço para tênis cinza claro chato poliester 120cm - generalcouros - Cadarço.jpg" alt="woolen hat for men" class="showcase-img" width="75"
                       height="75">
                   </a>
 
                   <div class="showcase-content">
 
-                    <a href="#">
-                      <h4 class="showcase-title">Cadarço Chato Poliester T150 - 120cm - Cinza Escuro - Par</h4>
+                    <a href="https://www.magazineluiza.com.br/cadarco-para-tenis-cinza-claro-chato-poliester-120cm-generalcouros/p/dj46jf03j9/md/cdrc/">
+                      <h4 class="showcase-title">cadarço para tênis cinza claro chato poliester 120cm - generalcouros - Cadarço</h4>
                     </a>
                     <div class="showcase-rating">
                       <ion-icon name="star"></ion-icon>
@@ -1518,8 +1518,8 @@
                     </div>
 
                     <div class="price-box">
-                      <del>$6.00</del>
-                      <p class="price">$3.00</p>
+                      <del>$29.99</del>
+                      <p class="price">$19.99</p>
                     </div>
 
                   </div>
@@ -2293,7 +2293,7 @@
                     </div>
               
                     <h3 class="showcase-title">
-                      <a href="#" class="showcase-title">Chuck Taylor All Star Vermelho</a>
+                      <a href="https://converse.com.br/chuck-taylor-all-star-cano-baixo-grande-ct00010004-vermelho?srsltid=AfmBOooxrijLP1GXHbXXeYhIa6fRPjaOhdHUQ3p7bscTu71cu63e3Lkb" class="showcase-title">Chuck Taylor All Star Vermelho</a>
                     </h3>
               
                     <p class="showcase-desc">
@@ -2301,8 +2301,8 @@
                     </p>
               
                     <div class="price-box">
-                      <p class="price">$70.00</p>
-                      <del>$79.99</del>
+                      <p class="price">$259.90</p>
+                      <del>$279.90</del>
                     </div>
               
                     <button class="add-cart-btn">Adicionar ao carrinho</button>
@@ -2456,7 +2456,7 @@
                   <a href="#" class="showcase-category">mocassins</a>
               
                   <h3>
-                    <a href="#" class="showcase-title">Mocassim Andacco Masculino Fretz em Couro Senna Tan</a>
+                    <a href="https://www.lojaandacco.com.br/mocassim-masculino-freetz-em-couro-senna-tan-98181st-marrom.html?srsltid=AfmBOoptlwOykrpH_6JGL81Y0jiqDLesY9PEe36fDlKtxSNwWztqA9Ov" class="showcase-title">Mocassim Andacco Masculino Fretz em Couro Senna Tan</a>
                   </h3>
               
                   <div class="showcase-rating">
@@ -2468,8 +2468,8 @@
                   </div>
               
                   <div class="price-box">
-                    <p class="price">$56.00</p>
-                    <del>$60.00</del>
+                    <p class="price">$299.00</p>
+                    <del>$309.00</del>
                   </div>
               
                 </div>
@@ -2664,7 +2664,7 @@
                   <a href="#" class="showcase-category">tênis</a>
               
                   <h3>
-                    <a href="#" class="showcase-title">Nike Air Max 90 tênis masculino</a>
+                    <a href="https://www.nike.com.br/tenis-nike-air-max-90-masculino-009318.html?cor=7T" class="showcase-title">Nike Air Max 90 tênis masculino</a>
                   </h3>
               
                   <div class="showcase-rating">
@@ -2676,8 +2676,8 @@
                   </div>
               
                   <div class="price-box">
-                    <p class="price">$89.00</p>
-                    <del>$92.00</del>
+                    <p class="price">$669.99</p>
+                    <del>$999.99</del>
                   </div>
               
                 </div>
@@ -2767,7 +2767,7 @@
                   <a href="#" class="showcase-category">sandálias</a>
               
                   <h3>
-                    <a href="#" class="showcase-title">Sandália Feminina Rasteirinha Infantil Peep Toe Com Pérola</a>
+                    <a href="https://www.meninafashion.com/MLB-2792362990-sandalia-feminina-rasteirinha-infantil-peep-toe-com-perola-_JM?attributes=COLOR_SECONDARY_COLOR%3AUm9zYQ%3D%3D&picker=true&quantity=1" class="showcase-title">Sandália Feminina Rasteirinha Infantil Peep Toe Com Pérola</a>
                   </h3>
               
                   <div class="showcase-rating">
@@ -2779,8 +2779,8 @@
                   </div>
               
                   <div class="price-box">
-                    <p class="price">$26.00</p>
-                    <del>$30.00</del>
+                    <p class="price">$78.99</p>
+                    <del>$88.99</del>
                   </div>
               
                 </div>
@@ -2883,7 +2883,7 @@
                   </div>
               
                   <div class="price-box">
-                    <p class="price">$189.90</p>
+                    <p class="price">$159.90</p>
                     <del>$199.90</del>
                   </div>
               
@@ -2975,7 +2975,7 @@
                   <a href="#" class="showcase-category">salto alto</a>
               
                   <h3>
-                    <a href="#" class="showcase-title">Scarpin Couro Marrom Salto Alto Cecconello 2130008-2, 39</a>
+                    <a href="https://www.lojacecconello.com.br/scarpin-couro-marrom-salto-alto-cecconello-2130008-2-2130008-2/p?srsltid=AfmBOoowSdSGmB6nkNEfRkkx7wRnB-d5A3BFAX_Pr3jpRWmeV-tb9hm0" class="showcase-title">Scarpin Couro Marrom Salto Alto Cecconello 2130008-2, 39</a>
                   </h3>
               
                   <div class="showcase-rating">
@@ -2987,8 +2987,8 @@
                   </div>
               
                   <div class="price-box">
-                    <p class="price">$78.00</p>
-                    <del>$85.00</del>
+                    <p class="price">$499.00</p>
+                    <del>$509.00</del>
                   </div>
               
                 </div>
@@ -3371,6 +3371,8 @@
           <a href="#" class="footer-category-link">Hugo boss</a>
           <a href="#" class="footer-category-link">Gats</a>
           <a href="#" class="footer-category-link">Beira rio</a>
+          <a href="#" class="footer-category-link">General couros</a>
+          <a href="#" class="footer-category-link">Impec</a>
         </div>
 
       </div>
