@@ -2198,7 +2198,7 @@
                       <ion-icon name="star"></ion-icon>
                       <ion-icon name="star"></ion-icon>
                       <ion-icon name="star"></ion-icon>
-                      <ion-icon name="star-outline"></ion-icon>
+                      <ion-icon name="star"></ion-icon>
                       <ion-icon name="star-outline"></ion-icon>
                     </div>
 
@@ -2410,8 +2410,8 @@
                     <ion-icon name="star"></ion-icon>
                     <ion-icon name="star"></ion-icon>
                     <ion-icon name="star"></ion-icon>
-                    <ion-icon name="star-outline"></ion-icon>
-                    <ion-icon name="star-outline"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
                   </div>
 
                   <div class="price-box">
@@ -2671,7 +2671,7 @@
                     <ion-icon name="star"></ion-icon>
                     <ion-icon name="star"></ion-icon>
                     <ion-icon name="star"></ion-icon>
-                    <ion-icon name="star-outline"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
                     <ion-icon name="star-outline"></ion-icon>
                   </div>
               
@@ -2826,7 +2826,7 @@
                     <ion-icon name="star"></ion-icon>
                     <ion-icon name="star"></ion-icon>
                     <ion-icon name="star"></ion-icon>
-                    <ion-icon name="star-outline"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
                   </div>
               
                   <div class="price-box">
@@ -2982,8 +2982,8 @@
                     <ion-icon name="star"></ion-icon>
                     <ion-icon name="star"></ion-icon>
                     <ion-icon name="star"></ion-icon>
-                    <ion-icon name="star-outline"></ion-icon>
-                    <ion-icon name="star-outline"></ion-icon>
+                    <ion-icon name="star"></ion-icon>
+                    <ion-icon name="star-half-outline"></ion-icon>
                   </div>
               
                   <div class="price-box">
@@ -3414,27 +3414,27 @@
         <ul class="footer-nav-list">
         
           <li class="footer-nav-item">
-            <h2 class="nav-title">Produtos</h2>
+            <h2 class="nav-title">Produtos principais</h2>
           </li>
         
           <li class="footer-nav-item">
-            <a href="#" class="footer-nav-link">Preços baixos</a>
+            <a href="#" class="footer-nav-link">Tênis</a>
           </li>
         
           <li class="footer-nav-item">
-            <a href="#" class="footer-nav-link">Novos produtos</a>
+            <a href="#" class="footer-nav-link">Chinelo</a>
           </li>
         
           <li class="footer-nav-item">
-            <a href="#" class="footer-nav-link">Melhores vendas</a>
+            <a href="#" class="footer-nav-link">Sapato social</a>
           </li>
         
           <li class="footer-nav-item">
-            <a href="#" class="footer-nav-link">Nos contate</a>
+            <a href="#" class="footer-nav-link">Salto alto</a>
           </li>
         
           <li class="footer-nav-item">
-            <a href="#" class="footer-nav-link">Mapa do site</a>
+            <a href="#" class="footer-nav-link">Chuteira</a>
           </li>
         
         </ul>
@@ -3579,7 +3579,7 @@
         <img src="./assets/images/payment.png" alt="payment method" class="payment-img">
 
         <p class="copyright">
-          Copyright &copy; <a href="#">Teacher Web</a> all rights reserved.
+          Copyright &copy; <a href="https://github.com/">Pedro1dog</a> all rights reserved.
         </p>
 
       </div>
